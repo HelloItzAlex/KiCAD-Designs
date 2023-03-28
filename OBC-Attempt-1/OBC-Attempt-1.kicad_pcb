@@ -184,7 +184,7 @@
 
   (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-8_1x08_P5.00mm_Horizontal" (layer "F.Cu")
     (tedit 5B294EEA) (tstamp 0539b0e4-9e08-45aa-8b85-85a47b4a10ef)
-    (at 163.725 161.285 90)
+    (at 159.055 157.55 90)
     (descr "Terminal Block Phoenix MKDS-1,5-8, 8 pins, pitch 5mm, size 40x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
     (tags "THT Terminal Block Phoenix MKDS-1,5-8 pitch 5mm size 40x9.8mm^2 drill 1.3mm pad 2.6mm")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -397,7 +397,7 @@
 
   (footprint "Diode_SMD:D_SMC" (layer "F.Cu")
     (tedit 5864295D) (tstamp 09bf7e5b-f293-4249-b7ab-a0d7409ae0c3)
-    (at 87.74 154.24 90)
+    (at 87.74 145.065 90)
     (descr "Diode SMC (DO-214AB)")
     (tags "Diode SMC (DO-214AB)")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -898,7 +898,7 @@
 
   (footprint "CPC1020NTR:4-SOP" (layer "F.Cu")
     (tedit 64181C96) (tstamp 29970e09-9bb0-44c3-8a55-7dc6830fc71e)
-    (at 103.02 131.555 90)
+    (at 103.02 122.38 90)
     (descr "4-lead <b>SMD PACKAGE</b>")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
     (property "Sheetname" "")
@@ -929,7 +929,7 @@
 
   (footprint "Diode_SMD:D_SMC" (layer "F.Cu")
     (tedit 5864295D) (tstamp 2ca1839e-d3e1-48a9-ac0a-8b6e8722eb63)
-    (at 87.64 143.18 90)
+    (at 87.64 134.005 90)
     (descr "Diode SMC (DO-214AB)")
     (tags "Diode SMC (DO-214AB)")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -978,7 +978,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 2dab90f5-e11c-47de-ace3-81b8dfa0659b)
-    (at 111.185 147.105)
+    (at 111.185 137.93)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -1020,7 +1020,7 @@
 
   (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-8_1x08_P5.00mm_Horizontal" (layer "F.Cu")
     (tedit 5B294EEA) (tstamp 30ca85a9-22f1-4fb0-9bc3-1d06c3ec33d6)
-    (at 128.14 36.355 180)
+    (at 126.72 36.525 180)
     (descr "Terminal Block Phoenix MKDS-1,5-8, 8 pins, pitch 5mm, size 40x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
     (tags "THT Terminal Block Phoenix MKDS-1,5-8 pitch 5mm size 40x9.8mm^2 drill 1.3mm pad 2.6mm")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -1149,7 +1149,7 @@
 
   (footprint "CPC1020NTR:4-SOP" (layer "F.Cu")
     (tedit 64181C96) (tstamp 31a0d78a-f452-4680-b72f-b0b125f0c7e9)
-    (at 135.775 159.485 -90)
+    (at 135.775 150.31 -90)
     (descr "4-lead <b>SMD PACKAGE</b>")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
     (property "Sheetname" "")
@@ -1222,7 +1222,7 @@
 
   (footprint "Diode_SMD:D_SMC" (layer "F.Cu")
     (tedit 5864295D) (tstamp 422a77c3-bb75-4e44-a0e2-cba52a963e88)
-    (at 87.68 131.38 90)
+    (at 87.68 122.205 90)
     (descr "Diode SMC (DO-214AB)")
     (tags "Diode SMC (DO-214AB)")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -1313,7 +1313,7 @@
 
   (footprint "CPC1020NTR:4-SOP" (layer "F.Cu")
     (tedit 64181C96) (tstamp 4652da74-db1b-4aca-bd00-76022090ee1a)
-    (at 102.72 145.815 90)
+    (at 102.72 136.64 90)
     (descr "4-lead <b>SMD PACKAGE</b>")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
     (property "Sheetname" "")
@@ -1344,7 +1344,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 4f51e8e5-61c7-451d-aa8f-47355a7113f3)
-    (at 111.88 122.415)
+    (at 111.88 113.24)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -1566,7 +1566,7 @@
 
   (footprint "BMI088:BMI088" (layer "F.Cu")
     (tedit 0) (tstamp 6026b9a1-29e2-4735-ab9e-e481e22b437d)
-    (at 118.6 66.355 180)
+    (at 119.38 66.675 180)
     (property "AVAILABILITY" "In Stock")
     (property "DESCRIPTION" "Accelerometer, Gyroscope, 6 Axis Sensor I²C, SPI Output")
     (property "MF" "Bosch Sensortec")
@@ -1810,7 +1810,7 @@
 
   (footprint "Crystal:Crystal_HC49-4H_Vertical" (layer "F.Cu")
     (tedit 5A1AD3B7) (tstamp 61055c22-ff88-4745-ac6d-61c32654da31)
-    (at 85.67 94.65 -45)
+    (at 85.897588 94.787588 -45)
     (descr "Crystal THT HC-49-4H http://5hertz.com/pdfs/04404_D.pdf")
     (tags "THT crystalHC-49-4H")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -1858,7 +1858,7 @@
 
   (footprint "Diode_SMD:D_SMC" (layer "F.Cu")
     (tedit 5864295D) (tstamp 6b1ced5d-cc6c-46be-94e8-75ba4105e85e)
-    (at 150.795 123.285 -90)
+    (at 150.795 114.11 -90)
     (descr "Diode SMC (DO-214AB)")
     (tags "Diode SMC (DO-214AB)")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -1907,7 +1907,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 6c755209-04e0-4cd0-9032-03214c914bdd)
-    (at 125.49 122.185 180)
+    (at 125.49 113.01 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -1991,7 +1991,7 @@
 
   (footprint "Diode_SMD:D_SMC" (layer "F.Cu")
     (tedit 5864295D) (tstamp 79347965-5e6f-4858-afe0-6e0ecea435a9)
-    (at 87.57 120.41 90)
+    (at 87.57 111.235 90)
     (descr "Diode SMC (DO-214AB)")
     (tags "Diode SMC (DO-214AB)")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -2040,7 +2040,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 7bef4be0-547b-41d9-b587-b488f33dc63e)
-    (at 127.255 157.885)
+    (at 127 148.71 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -2069,9 +2069,9 @@
     (fp_line (start 0.8 -0.4125) (end 0.8 0.4125) (layer "F.Fab") (width 0.1) (tstamp 6996cf8d-192b-4d57-a766-47d5f563249c))
     (fp_line (start 0.8 0.4125) (end -0.8 0.4125) (layer "F.Fab") (width 0.1) (tstamp a6f492eb-c733-41e5-b80f-18a0341b8d26))
     (fp_line (start -0.8 0.4125) (end -0.8 -0.4125) (layer "F.Fab") (width 0.1) (tstamp f41b383a-f0be-45ee-93ac-11c50ce916ad))
-    (pad "1" smd roundrect (at -0.825 0) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (pad "1" smd roundrect (at -0.825 0 180) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 56 "Net-(R14-Pad1)") (pintype "passive") (tstamp f6c8cb90-6fc0-48f0-9c4e-7b3b53139f72))
-    (pad "2" smd roundrect (at 0.825 0) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (pad "2" smd roundrect (at 0.825 0 180) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 57 "SOL5") (pintype "passive") (tstamp 7aaa1404-5fae-48d2-a26b-1c26bafdc106))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
@@ -2082,7 +2082,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (layer "F.Cu")
     (tedit 5A02FF57) (tstamp 8201480e-22a1-4bae-b03c-f94c56832f08)
-    (at 136.36 57.695 180)
+    (at 139.065 52.07 180)
     (descr "module CMS SOT223 4 pins")
     (tags "CMS SOT")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -2131,7 +2131,7 @@
 
   (footprint "CPC1020NTR:4-SOP" (layer "F.Cu")
     (tedit 64181C96) (tstamp 8363670a-569a-4890-b779-eb93d06e2d40)
-    (at 102.84 156.555 90)
+    (at 102.84 147.38 90)
     (descr "4-lead <b>SMD PACKAGE</b>")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
     (property "Sheetname" "")
@@ -2162,7 +2162,7 @@
 
   (footprint "CPC1020NTR:4-SOP" (layer "F.Cu")
     (tedit 64181C96) (tstamp 89364f70-942d-4fb1-9bd1-ecc1a77870bc)
-    (at 102.81 121.065 90)
+    (at 102.81 111.89 90)
     (descr "4-lead <b>SMD PACKAGE</b>")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
     (property "Sheetname" "")
@@ -2193,7 +2193,7 @@
 
   (footprint "Connector_Card:microSD_HC_Wuerth_693072010801" (layer "F.Cu")
     (tedit 5A1DBFB5) (tstamp 8a47b2df-58f4-4907-865c-b06f62f94766)
-    (at 160.4275 97.345 -90)
+    (at 158.75 94.615 -90)
     (descr "http://katalog.we-online.de/em/datasheet/693072010801.pdf")
     (tags "Micro SD Wuerth Wurth Würth")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -2275,7 +2275,7 @@
 
   (footprint "CPC1020NTR:4-SOP" (layer "F.Cu")
     (tedit 64181C96) (tstamp 8d0f2c99-a966-40e6-a62d-f278fa637170)
-    (at 135.385 123.275 -90)
+    (at 135.385 114.1 -90)
     (descr "4-lead <b>SMD PACKAGE</b>")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
     (property "Sheetname" "")
@@ -2348,7 +2348,7 @@
 
   (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-8_1x08_P5.00mm_Horizontal" (layer "F.Cu")
     (tedit 5B294EEA) (tstamp 9220bd26-9665-44b8-9641-ff12544d5da1)
-    (at 75.88 120.445 -90)
+    (at 76.53 122.55 -90)
     (descr "Terminal Block Phoenix MKDS-1,5-8, 8 pins, pitch 5mm, size 40x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
     (tags "THT Terminal Block Phoenix MKDS-1,5-8 pitch 5mm size 40x9.8mm^2 drill 1.3mm pad 2.6mm")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -2630,7 +2630,7 @@
 
   (footprint "Diode_SMD:D_SMC" (layer "F.Cu")
     (tedit 5864295D) (tstamp a428ed91-3129-4d88-b011-9f00810c90dc)
-    (at 150.525 159.345 -90)
+    (at 150.525 150.17 -90)
     (descr "Diode SMC (DO-214AB)")
     (tags "Diode SMC (DO-214AB)")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -2721,7 +2721,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp a54e15f8-6808-4263-b328-27e02409c33e)
-    (at 111.52 132.785)
+    (at 111.52 123.61)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -2896,7 +2896,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp aaf7576e-5485-4b54-b268-360c5b84d20f)
-    (at 110.81 157.885)
+    (at 110.81 148.71)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -2938,7 +2938,7 @@
 
   (footprint "CPC1020NTR:4-SOP" (layer "F.Cu")
     (tedit 64181C96) (tstamp ae8348dc-b02f-43e5-a25f-17c820af99b1)
-    (at 135.455 135.315 -90)
+    (at 135.455 126.14 -90)
     (descr "4-lead <b>SMD PACKAGE</b>")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
     (property "Sheetname" "")
@@ -3011,7 +3011,7 @@
 
   (footprint "Diode_SMD:D_SMC" (layer "F.Cu")
     (tedit 5864295D) (tstamp b1e16619-6e0a-443b-84d5-280eaa633376)
-    (at 150.495 146.705 -90)
+    (at 150.495 137.53 -90)
     (descr "Diode SMC (DO-214AB)")
     (tags "Diode SMC (DO-214AB)")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -3060,7 +3060,7 @@
 
   (footprint "Diode_SMD:D_SMC" (layer "F.Cu")
     (tedit 5864295D) (tstamp b45458b7-15fa-42ee-9d12-71f48eba3ea7)
-    (at 150.505 135.575 -90)
+    (at 150.505 126.4 -90)
     (descr "Diode SMC (DO-214AB)")
     (tags "Diode SMC (DO-214AB)")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -3213,7 +3213,7 @@
 
   (footprint "Resistor_SMD:R_0201_0603Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp bc8d44d9-67ac-492d-ae2b-c64deb43d8a7)
-    (at 93.06 44.815 90)
+    (at 92.71 44.45 90)
     (descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -3392,7 +3392,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp cffc5c12-4282-49d0-b959-ab2e3c1d7b7e)
-    (at 132.97 91.605 180)
+    (at 137.16 91.43 180)
     (descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x04 2.54mm single row")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -3721,7 +3721,7 @@
 
   (footprint "CPC1020NTR:4-SOP" (layer "F.Cu")
     (tedit 64181C96) (tstamp daf052b4-c302-4a90-bc54-8d218cdcfe2d)
-    (at 135.425 146.915 -90)
+    (at 135.425 137.74 -90)
     (descr "4-lead <b>SMD PACKAGE</b>")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
     (property "Sheetname" "")
@@ -3794,7 +3794,7 @@
 
   (footprint "Connector_USB:USB_Micro-B_Molex_47346-0001" (layer "F.Cu")
     (tedit 5D8620A7) (tstamp e7563273-05ff-43b1-a0dd-a38f0d92f92f)
-    (at 158.92 71.915 90)
+    (at 160.655 73.025 90)
     (descr "Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)")
     (tags "Micro B USB SMD")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -3863,7 +3863,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp e99c5ea0-e690-4c31-bd93-406353eba002)
-    (at 126.795 145.585 180)
+    (at 126.795 136.41 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -4031,7 +4031,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp f92b85ea-1bf5-49c4-834a-e2dff5172136)
-    (at 125.995 133.925 180)
+    (at 125.995 124.75 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -4073,7 +4073,7 @@
 
   (footprint "Resistor_SMD:R_0201_0603Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp fc4e7f47-f769-4c5d-a4da-d2cee33398b3)
-    (at 103.14 44.565 90)
+    (at 102.87 44.565 90)
     (descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "OBC-Attempt-1.kicad_sch")
@@ -4113,24 +4113,54 @@
     )
   )
 
-  (gr_rect (start 68.59 30.26) (end 175.53 168.18) (layer "In1.Cu") (width 0.2) (fill none) (tstamp 2f40ee94-8af5-4568-b9a7-309c065cf657))
-  (dimension (type aligned) (layer "In1.Cu") (tstamp 735de8d4-3fc5-4e24-88cc-372cb7d058f4)
-    (pts (xy 174.75 30.26) (xy 176.88 167.24))
-    (height -8.623239)
-    (gr_text "136.9966 mm" (at 186.236979 98.587941 270.8908613) (layer "In1.Cu") (tstamp 8574ee80-86f0-41b4-9e24-23ddfe4245b8)
+  (gr_rect (start 71.12 31.75) (end 164.465 160.655) (layer "In1.Cu") (width 0.2) (fill none) (tstamp 2f40ee94-8af5-4568-b9a7-309c065cf657))
+  (dimension (type aligned) (layer "F.Cu") (tstamp 5ba9f1ba-88fd-49a4-804f-d9626c4232cf)
+    (pts (xy 164.465 31.75) (xy 164.465 160.655))
+    (height -16.51)
+    (gr_text "128.9050 mm" (at 179.175 96.2025 90) (layer "F.Cu") (tstamp 3b61e12b-4b9a-4a35-bdd1-ea4c89cc3d9b)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (format (units 3) (units_format 1) (precision 4))
     (style (thickness 0.2) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
-  (dimension (type aligned) (layer "In1.Cu") (tstamp ce9dc98e-953a-4077-b8a7-c71a3268b0f5)
-    (pts (xy 68.43 30.32) (xy 175.48 29.98))
-    (height -10.177941)
-    (gr_text "107.0505 mm" (at 121.916957 18.172119 0.1819757079) (layer "In1.Cu") (tstamp e7dcd3df-5f89-4a34-b467-e353259c546d)
+  (dimension (type aligned) (layer "F.Cu") (tstamp 8558ff77-e4df-4fc0-9524-e779f33d1f24)
+    (pts (xy 71.12 31.75) (xy 164.465 31.75))
+    (height -10.795)
+    (gr_text "93.3450 mm" (at 117.7925 19.155) (layer "F.Cu") (tstamp df4ba0c7-e648-4bb6-a62f-d3b5c6255af1)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (format (units 3) (units_format 1) (precision 4))
     (style (thickness 0.2) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
 
+  (segment (start 142.85 49.77) (end 133.72 40.64) (width 0.25) (layer "F.Cu") (net 12) (tstamp 02793e44-d342-485b-89a0-ed0ca877afca))
+  (segment (start 106.72 36.525) (end 110.49 40.295) (width 0.25) (layer "F.Cu") (net 12) (tstamp 3e0bc4ea-d58c-4812-a48d-ab8c76978e1a))
+  (segment (start 133.72 40.64) (end 130.81 40.64) (width 0.25) (layer "F.Cu") (net 12) (tstamp 4947037d-77e3-4e49-9999-2f54d52afaec))
+  (segment (start 120.65 40.64) (end 110.49 40.64) (width 0.25) (layer "F.Cu") (net 12) (tstamp 5f0b744c-f0b0-4969-a806-ba62599dd92f))
+  (segment (start 130.81 40.64) (end 120.65 40.64) (width 0.25) (layer "F.Cu") (net 12) (tstamp 9a6a5023-877d-43f2-8246-d3290754746c))
+  (segment (start 111.76 40.64) (end 110.835 40.64) (width 0.25) (layer "F.Cu") (net 12) (tstamp 9bf56e8c-fb24-4c4c-a858-c7ac4c81b82b))
+  (segment (start 145.715 52.635) (end 142.85 49.77) (width 0.25) (layer "F.Cu") (net 12) (tstamp a436c676-570a-44b4-94ae-2b202c791203))
+  (segment (start 126.72 36.55) (end 130.81 40.64) (width 0.25) (layer "F.Cu") (net 12) (tstamp a6ee5787-bb2f-4ca2-a44d-4eb0fa1d1c9b))
+  (segment (start 110.49 40.64) (end 100.835 40.64) (width 0.25) (layer "F.Cu") (net 12) (tstamp af8a71bc-f1de-4cdf-9b57-4328924dd8e6))
+  (segment (start 116.72 36.525) (end 120.65 40.455) (width 0.25) (layer "F.Cu") (net 12) (tstamp be97c883-ddad-40cf-931d-79797e1716c6))
+  (segment (start 110.49 40.295) (end 110.49 40.64) (width 0.25) (layer "F.Cu") (net 12) (tstamp c3044009-18f4-4cdd-8eb0-365e13c4d73a))
+  (segment (start 126.72 36.525) (end 126.72 36.55) (width 0.25) (layer "F.Cu") (net 12) (tstamp c4f8e4f5-a60d-4397-aec0-b14feeff3648))
+  (segment (start 120.65 40.455) (end 120.65 40.64) (width 0.25) (layer "F.Cu") (net 12) (tstamp cbf15848-b292-4724-8d38-ddf0b4fcd227))
+  (segment (start 100.835 40.64) (end 96.72 36.525) (width 0.25) (layer "F.Cu") (net 12) (tstamp e8c960d7-7dd9-45b0-98c2-e6062e0c62a0))
+  (segment (start 159.385 52.635) (end 145.715 52.635) (width 0.25) (layer "F.Cu") (net 12) (tstamp fe042a0e-ca0f-4b4a-8a27-e8cb384742c4))
+  (segment (start 159.385 40.455) (end 159.385 47.635) (width 0.25) (layer "F.Cu") (net 37) (tstamp 1065265e-b10b-462c-937d-3d010eef141f))
+
+  (zone (net 2) (net_name "GND") (layer "In1.Cu") (tstamp 5872779e-eb66-43bc-9017-e47bca521c59) (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
+    (min_thickness 0.254)
+    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 164.465 160.655)
+        (xy 71.12 160.655)
+        (xy 71.12 31.75)
+        (xy 164.465 31.75)
+      )
+    )
+  )
 )
