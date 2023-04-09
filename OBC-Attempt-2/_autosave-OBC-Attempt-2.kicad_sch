@@ -6560,7 +6560,7 @@
     (property "Value" "Buzzer" (id 1) (at 354.33 15.875 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Buzzer_Beeper:Buzzer_12x9.5RM7.6" (id 2) (at 354.965 20.955 90)
+    (property "Footprint" "Buzzer_Beeper:Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm" (id 2) (at 354.965 20.955 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 354.965 20.955 90)
@@ -6596,7 +6596,7 @@
 
   (symbol_instances
     (path "/e7521f0e-208c-43b3-96f5-ae6d1509b603"
-      (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer_Beeper:Buzzer_12x9.5RM7.6")
+      (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer_Beeper:Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm")
     )
     (path "/c867689e-786f-4cf9-ba86-83ebba55fe12"
       (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_01005_0402Metric")
