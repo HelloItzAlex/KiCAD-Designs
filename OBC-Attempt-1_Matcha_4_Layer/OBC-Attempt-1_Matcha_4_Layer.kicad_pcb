@@ -1005,7 +1005,7 @@
 
   (footprint "BMI088:BMI088" (layer "F.Cu")
     (tedit 0) (tstamp 9970ffb9-940c-43a9-a522-8cb43279ec72)
-    (at 120.2 69.34 180)
+    (at 120.19 69.4 180)
     (property "AVAILABILITY" "In Stock")
     (property "DESCRIPTION" "Accelerometer, Gyroscope, 6 Axis Sensor I²C, SPI Output")
     (property "MF" "Bosch Sensortec")
@@ -2788,7 +2788,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 53d1a036-2e6a-4595-9b80-3c767b1f1bc2)
-    (at 206.665 41.01 180)
+    (at 206.11 41.05 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "OBC-Attempt-1_Matcha_4_Layer.kicad_sch")
