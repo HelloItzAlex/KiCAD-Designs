@@ -1,4 +1,18 @@
-20384942530531800
+20395027674119035
+ABMM2_6mm_3_6mm
+XTAL_ABMM2-25.000MHZ-D1-T
+
+
+0
+4
+4
+ABMM2_6mm_3_6mm
+XTAL_ABMM2-32.768MHZ-E2F-T
+
+
+0
+4
+4
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +27,13 @@ audio belton reverb
 0
 7
 7
+BMI088
+BMI088
+
+
+0
+16
+16
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -2372,6 +2393,13 @@ speaker CUI
 0
 2
 2
+CPC1020NTR
+4-SOP
+4-lead <b>SMD PACKAGE</b>
+
+0
+4
+4
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -57665,6 +57693,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MS560702BA03-50
+SON125P300X500X100-8N
+
+
+0
+8
+8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -61284,6 +61319,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PCM12SMTR
+SW_PCM12SMTR
+
+
+0
+7
+7
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
