@@ -61,7 +61,7 @@
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "warning",
+        "clearance": "error",
         "copper_edge_clearance": "error",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
@@ -103,7 +103,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.127,
+        "min_clearance": 0.19999999999999998,
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -112,8 +112,8 @@
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
-        "min_via_annular_width": 0.13,
-        "min_via_diameter": 0.7,
+        "min_via_annular_width": 0.049999999999999996,
+        "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
@@ -122,7 +122,7 @@
         0.0,
         0.3,
         0.5,
-        0.75,
+        0.7,
         1.0
       ],
       "via_dimensions": [
@@ -354,7 +354,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "OBC-Attempt-2.kicad_pro",
+    "filename": "OBC-Attempt-6_Matcha_2_Layer_4.kicad_pro",
     "version": 1
   },
   "net_settings": {
