@@ -1780,7 +1780,7 @@
     (property "Value" "Conn_02x08_Odd_Even" (id 1) (at 246.38 46.9899 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "" (id 2) (at 257.175 46.99 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Horizontal" (id 2) (at 257.175 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 257.175 46.99 0)
@@ -2459,7 +2459,7 @@
       (reference "J?") (unit 1) (value "Bat") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical")
     )
     (path "/475f8da9-d37c-4d78-9b1e-987b8b87d7f1"
-      (reference "J?") (unit 1) (value "Conn_02x08_Odd_Even") (footprint "")
+      (reference "J?") (unit 1) (value "Conn_02x08_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Horizontal")
     )
     (path "/db7f65d0-b56b-4155-a900-b3cbec3e04b8"
       (reference "J?") (unit 1) (value "DEBUG") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical")
