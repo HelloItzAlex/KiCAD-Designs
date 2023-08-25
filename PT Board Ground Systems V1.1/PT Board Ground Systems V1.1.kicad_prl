@@ -3,12 +3,10 @@
     "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "images": 0.6,
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
@@ -64,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "00090ba_80000001",
+    "visible_layers": "ffcffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "OBC-Attempt-3_Dual_Deploy.kicad_prl",
+    "filename": "PT Board Ground Systems.kicad_prl",
     "version": 3
   },
   "project": {
