@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*
+G04 #@! TF.CreationDate,2023-09-05T00:15:25-07:00*
+G04 #@! TF.ProjectId,Power Supply Board Ground Systems V1.1,506f7765-7220-4537-9570-706c7920426f,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2023-09-05 00:15:25*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.100000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X25400000Y-25400000D02*
+X107950000Y-25400000D01*
+X107950000Y-69850000D01*
+X25400000Y-69850000D01*
+X25400000Y-25400000D01*
+M02*
