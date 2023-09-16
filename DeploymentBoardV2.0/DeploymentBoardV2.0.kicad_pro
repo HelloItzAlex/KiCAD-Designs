@@ -420,7 +420,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Personal_OBC_V1.1.kicad_pro",
+    "filename": "DeploymentBoardV2.0.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -507,7 +507,7 @@
   },
   "sheets": [
     [
-      "7aafcae6-20fd-4029-823b-72b16b42b1cc",
+      "658cc45d-6ef2-4699-ab23-73d886cbb078",
       ""
     ]
   ],
