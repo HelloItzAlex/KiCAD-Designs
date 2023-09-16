@@ -1,4 +1,11 @@
-22219004642947884
+22230861718384067
+636101111001
+636101111001
+636101111001-2
+Connector
+0
+3
+3
 AP2205-33W5-7
 SOT95P282X130-5N
 SOT-23-5
@@ -55719,6 +55726,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HW-TRPW
+HM-TRPW
+
+
+0
+9
+9
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -55859,6 +55873,13 @@ heatsink
 0
 0
 0
+IN-P32TATRGB
+INP32TATRGB
+IN-P32TATRGB-2
+LED
+0
+4
+4
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -62166,6 +62187,13 @@ Integrated Circuit
 0
 9
 9
+MS560702BA03-50
+SON125P300X500X100-8N
+
+
+0
+8
+8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -91139,6 +91167,20 @@ igbt diode module
 0
 25
 25
+USB4056-03-A
+GCT_USB4056-03-A_REVA2
+
+
+0
+28
+28
+USB4525-03-A
+GCT_USB4125-GF-A_REVA2
+
+
+0
+10
+10
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -91920,6 +91962,13 @@ W25Q01JVZEIQ
 SON127P800X600X80-9N-D
 8-Pad WSON 8x6
 Integrated Circuit
+0
+9
+9
+W25X40CLUXIG TR
+PSON50P300X200X60-9N
+
+
 0
 9
 9
