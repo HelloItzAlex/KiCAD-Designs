@@ -1619,7 +1619,7 @@
       (net 30 "ENABLE") (pinfunction "ENABLE") (pintype "bidirectional") (thermal_bridge_angle 45) (tstamp 6702bd52-a815-4337-b29f-2ae9e3da01b1))
     (pad "7" smd rect (at 12 0) (size 1.6 2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 41 "unconnected-(U4-TEST-Pad7)") (pinfunction "TEST") (pintype "no_connect") (thermal_bridge_angle 45) (tstamp 95f9a535-0ac1-40ce-8e75-f6fb5d899461))
-    (pad "8" smd rect (at 12 18) (size 1.6 2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "8" smd rect (at 12 17.95) (size 1.6 2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 19 "TO_ANT") (pinfunction "ANT") (pintype "output") (thermal_bridge_angle 45) (tstamp 31792147-d528-4bb7-8517-1cd2297a162b))
     (pad "9" smd rect (at 10 17.96) (size 1.6 2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "GND") (pintype "input") (thermal_bridge_angle 45) (tstamp 7cccd0a9-ba13-4a60-bad0-aa15a2af1fb9))
