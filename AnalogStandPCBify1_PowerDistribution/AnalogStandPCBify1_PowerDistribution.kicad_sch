@@ -512,6 +512,11 @@
     (uuid faeaf83c-27ac-48c8-9b4d-26151a1d3f5b)
   )
 
+  (label "24V+" (at 59.69 40.005 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 57b747e1-de7e-41ff-af39-6517f42ae39c)
+  )
+
   (symbol (lib_id "power:GND") (at 98.425 106.045 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 04902c16-6219-4d90-b39c-6a4ca8a1c1d8)
@@ -546,7 +551,7 @@
     (property "Value" "24V+" (at 63.5 69.9135 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Wire:SolderWire-1.5sqmm_1x02_P6mm_D1.7mm_OD3mm_Relief" (at 59.69 67.691 90)
+    (property "Footprint" "Connector_Wire:SolderWire-1.5sqmm_1x02_P7.8mm_D1.7mm_OD3.9mm_Relief" (at 59.69 67.691 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 59.69 67.691 90)
