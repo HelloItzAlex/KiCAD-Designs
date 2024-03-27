@@ -1,4 +1,18 @@
-22224096910790939
+22241104899029664
+1091946
+PHOENIX_1091946
+
+
+0
+12
+12
+636101111001
+636101111001
+636101111001-2
+Connector
+0
+3
+3
 AP2205-33W5-7
 SOT95P282X130-5N
 SOT-23-5
@@ -2442,6 +2456,13 @@ speaker CUI
 0
 2
 2
+CN-Linko LP16 3 Pin
+LP16-3P
+
+
+0
+3
+3
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -54690,6 +54711,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+FWS-04-02-T-S-RA
+FWS0402TSRA
+FWS-04-02-T-S-RA-3
+Connector
+0
+4
+4
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -55719,6 +55747,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HW-TRPW
+HM-TRPW
+
+
+0
+9
+9
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -55859,6 +55894,13 @@ heatsink
 0
 0
 0
+IN-P32TATRGB
+INP32TATRGB
+IN-P32TATRGB-2
+LED
+0
+4
+4
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -62159,6 +62201,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LOGO
+RP_Logo
+
+
+0
+0
+0
 MCP2557FDT-H_MNY
 SON50P300X200X80-9N-D
 (MN) [TDFN_8]_2021
@@ -62166,6 +62215,20 @@ Integrated Circuit
 0
 9
 9
+MS560702BA03-50
+SON125P300X500X100-8N
+
+
+0
+8
+8
+MTJ-889X1
+CONN_MTJ-889X1_ADM
+
+MTJ-889X1 
+0
+10
+10
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -86288,13 +86351,13 @@ Logo WEEE
 0
 0
 0
-TBL009V-254-08GY-2GY
-RHDR16W70P508X254_2X8_2182X1000X1655P
-TBL009V-254-08GY-2GY
-Connector
+TBLH10-350-09BK
+CUI_TBLH10-350-09BK
+
+
 0
-16
-16
+18
+18
 TBLH10V-350-02BK
 RHDR4W80P550X350_2X2_770X850X1420P
 TBLH10V-350-02BK
@@ -86316,20 +86379,6 @@ Connector
 0
 18
 18
-TLP241A
-SOIC254P1000X425-4N
-
-
-0
-4
-4
-TLP241A_D4,F
-DIP762W60P254L458H485Q4N
-11-5B2S
-Integrated Circuit
-0
-4
-4
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -91160,6 +91209,20 @@ igbt diode module
 0
 25
 25
+USB4056-03-A
+GCT_USB4056-03-A_REVA2
+
+
+0
+28
+28
+USB4525-03-A
+GCT_USB4125-GF-A_REVA2
+
+
+0
+10
+10
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -91941,6 +92004,13 @@ W25Q01JVZEIQ
 SON127P800X600X80-9N-D
 8-Pad WSON 8x6
 Integrated Circuit
+0
+9
+9
+W25X40CLUXIG TR
+PSON50P300X200X60-9N
+
+
 0
 9
 9
