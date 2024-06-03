@@ -1,4 +1,4 @@
-22241125984586916
+22241149829192115
 1091946
 PHOENIX_1091946
 
@@ -2449,13 +2449,6 @@ LP16-3P
 0
 3
 3
-CVJ10F30
-CVJ10F30
-
-
-0
-5
-5
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -84762,6 +84755,13 @@ rotary encoder
 0
 7
 6
+SS-5G
+SS-5G
+
+
+0
+3
+3
 SSM6N58NU,LF
 SSM6N58NULF
 SSM6N58NU,LF-1

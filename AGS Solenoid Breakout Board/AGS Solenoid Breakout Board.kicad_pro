@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.35,
-          "height": 2.025,
-          "width": 2.025
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,8 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -111,8 +110,6 @@
         "zones_intersect": "error"
       },
       "rules": {
-        "allow_blind_buried_vias": false,
-        "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.127,
         "min_connection": 0.0,
@@ -195,8 +192,7 @@
           "drill": 0.3
         }
       ],
-      "zones_allow_external_fillets": false,
-      "zones_use_no_outline": true
+      "zones_allow_external_fillets": false
     },
     "layer_presets": [],
     "viewports": []
@@ -421,7 +417,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PT Board Ground Systems V1.2.kicad_pro",
+    "filename": "AGS Solenoid Breakout Board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -486,18 +482,8 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "fix_passive_vals": false,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 0,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
-    "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -508,7 +494,7 @@
   },
   "sheets": [
     [
-      "caa37101-8694-48a6-af29-fd0ef2d722b5",
+      "dc44eb47-e25a-4bae-af9a-a56643c7883a",
       ""
     ]
   ],

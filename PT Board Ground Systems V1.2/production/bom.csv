@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,LED_D3.0mm,1,LED,
+"H1, H2, H3, H4",MountingHole_3.2mm_M3_DIN965_Pad_TopBottom,4,MountingHole_Pad,
+"J1, J6",RHDR4W80P550X350_2X2_770X850X1420P,2,TBLH10V-350-02BK,
+"J2, J3, J4, J5",RHDR16W80P550X350_2X8_2870X850X1420P,4,TBLH10V-350-08BK,
+R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,2.9K,

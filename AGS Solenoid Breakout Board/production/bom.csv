@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4, D5, D6",D_DO-41_SOD81_P2.54mm_Vertical_AnodeUp,6,1N4007,
+"H1, H2, H3, H4",MountingHole_3.2mm_M3,4,MountingHole,
+J1,CUI_TBLH10-350-12BK,1,TBLH10-350-12BK,
+U1,CONN_MTJ-883X1_ADM,1,MTJ-883X1,
