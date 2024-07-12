@@ -1,4 +1,4 @@
-22256606028948256
+22266930657981185
 1091946
 PHOENIX_1091946
 
@@ -41,6 +41,20 @@ AP2210N-3.3TRG1
 0
 3
 3
+BMI088
+BMI088
+
+
+0
+16
+16
+BMI088
+PQFN50P450X300X100-16N
+
+
+0
+16
+16
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -62215,6 +62229,27 @@ Yellow 5381 Series LED
 0
 2
 2
+LM293QT
+DFN8_2P16X2P16X0P5_STM
+
+LM293QT 
+0
+9
+9
+LM293QT
+DFN8_2P16X2P16X0P5_STM-L
+
+LM293QT 
+0
+9
+9
+LM293QT
+DFN8_2P16X2P16X0P5_STM-M
+
+LM293QT 
+0
+9
+9
 LOGO
 RP_Logo
 
@@ -84810,6 +84845,13 @@ Bourns rotary encoder, PEC12R, with switch, vertical shaft, https://www.bourns.c
 rotary encoder
 0
 7
+6
+SI7232DN-T1-GE3
+SQJ500AEP-T1_GE3_VIS
+
+SI7232DN-T1-GE3 
+0
+6
 6
 SS-5G
 SS-5G
