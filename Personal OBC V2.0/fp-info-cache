@@ -1,4 +1,4 @@
-22268651609274061
+22278981248915219
 1091946
 PHOENIX_1091946
 
@@ -6362,6 +6362,27 @@ capacitor tantalum
 0
 2
 2
+Conn_Screw_SMD
+2_Pin_Conn
+
+
+0
+2
+2
+Conn_Screw_SMD
+4_Pin_Conn
+
+
+0
+4
+4
+Conn_Screw_SMD
+8_Pin_Conn
+
+
+0
+8
+8
 Connector
 Banana_Cliff_FCR7350x_S16N-PC_Horizontal
 Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
@@ -62264,6 +62285,27 @@ Power Supply
 0
 9
 9
+MCP1642B_50I_MS
+MSOP8_MCP1642B-50I&slash_MS_MCH
+
+MCP1642B-50I/MS 
+0
+8
+8
+MCP1642B_50I_MS
+MSOP8_MCP1642B-50I&slash_MS_MCH-L
+
+MCP1642B-50I/MS 
+0
+8
+8
+MCP1642B_50I_MS
+MSOP8_MCP1642B-50I&slash_MS_MCH-M
+
+MCP1642B-50I/MS 
+0
+8
+8
 MCP1701AT_3302I_CB
 SOT-23A_MC_MCH
 
@@ -84854,12 +84896,12 @@ rotary encoder
 7
 6
 SI7232DN-T1-GE3
-SQJ500AEP-T1_GE3_VIS
-
-SI7232DN-T1-GE3 
+SI7232DNT1GE3
+PowerPAK1212-8_2021
+MOSFET (N-Channel)
 0
-6
-6
+16
+16
 SS-5G
 SS-5G
 
