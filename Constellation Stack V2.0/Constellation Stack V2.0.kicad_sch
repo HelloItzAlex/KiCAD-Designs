@@ -17811,7 +17811,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm"
+		(property "Footprint" "TJA1050T_CM_118:SOIC127P600X175-8N"
 			(at 49.53 247.015 0)
 			(effects
 				(font
@@ -21343,7 +21343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AP2210N-5.0TRG1_DIO"
+		(property "Footprint" "AP2210N_5_0TRG1:AP2210N-5.0TRG1_DIO"
 			(at 103.886 25.908 0)
 			(effects
 				(font
@@ -23917,7 +23917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TCR2EF50:SOT_EF50_LMCT_TOS"
+		(property "Footprint" "ESP32-PICO-MINI-02:MODULE_ESP32-PICO-MINI-02"
 			(at 208.915 103.505 0)
 			(effects
 				(font
@@ -23936,7 +23936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nBluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.412GHz ~ 2.484GHz PCB Trace Chassis Mount\n"
+		(property "Description" "Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.412GHz ~ 2.484GHz PCB Trace Chassis Mount"
 			(at 208.915 103.505 0)
 			(effects
 				(font
