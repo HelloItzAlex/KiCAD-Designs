@@ -67,6 +67,12 @@
     "visible_layers": "ffcffff_7fffffff",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "Solenoid Board Ground Systems V1.1.kicad_prl",
     "version": 3
