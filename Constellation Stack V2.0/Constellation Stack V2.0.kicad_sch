@@ -13879,7 +13879,7 @@
 		)
 		(uuid "50345738-1ed3-45ca-a562-1a9970eee1f4")
 	)
-	(text "SCREW TERMINAL OUTS"
+	(text "PIN OUTS"
 		(exclude_from_sim no)
 		(at 221.615 178.435 0)
 		(effects
@@ -18676,7 +18676,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 60.6552 31.115 0)
 			(effects
 				(font
@@ -21359,7 +21359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 80.9752 31.115 0)
 			(effects
 				(font
