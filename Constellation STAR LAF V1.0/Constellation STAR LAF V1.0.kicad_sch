@@ -5981,7 +5981,7 @@
 	)
 	(text "PWR BUS LED"
 		(exclude_from_sim no)
-		(at 197.612 67.31 0)
+		(at 197.866 55.118 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5991,7 +5991,7 @@
 	)
 	(text "3.3V LED"
 		(exclude_from_sim no)
-		(at 196.85 55.118 0)
+		(at 195.326 67.056 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6348,7 +6348,7 @@
 				)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "GREEN"
 			(at 184.404 52.578 0)
 			(effects
 				(font
@@ -7134,7 +7134,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "75"
 			(at 170.18 65.278 90)
 			(effects
 				(font
@@ -7886,7 +7886,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 170.18 53.848 90)
 			(effects
 				(font
