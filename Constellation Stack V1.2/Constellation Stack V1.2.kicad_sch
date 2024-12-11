@@ -10487,6 +10487,16 @@
 		)
 		(uuid "02dd78fb-2807-43e6-b620-32ef8907154f")
 	)
+	(wire
+		(pts
+			(xy 226.695 80.645) (xy 224.155 80.645)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0445ae95-13af-4853-9bac-6c55c595930b")
+	)
 	(polyline
 		(pts
 			(xy 168.275 62.865) (xy 168.275 148.59)
@@ -10696,16 +10706,6 @@
 			(type default)
 		)
 		(uuid "0d8b87d7-325f-4af8-8d03-18aca34bec50")
-	)
-	(wire
-		(pts
-			(xy 226.695 83.185) (xy 224.155 83.185)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0df15bc5-be7f-45ff-8c10-b6ad59880cd1")
 	)
 	(wire
 		(pts
@@ -11769,16 +11769,6 @@
 	)
 	(wire
 		(pts
-			(xy 226.695 80.645) (xy 224.155 80.645)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d1182f2-c857-4a7a-afa4-83d0861ff043")
-	)
-	(wire
-		(pts
 			(xy 233.68 214.63) (xy 247.015 214.63)
 		)
 		(stroke
@@ -12236,6 +12226,16 @@
 			(type default)
 		)
 		(uuid "67ad86ec-daa0-4e62-ba34-2b093393eb35")
+	)
+	(wire
+		(pts
+			(xy 226.695 83.185) (xy 224.155 83.185)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67fe1fd5-9a9a-49d6-a654-88b070df71af")
 	)
 	(polyline
 		(pts
@@ -14727,6 +14727,16 @@
 		)
 		(uuid "53fb4efa-1d88-4d56-b40b-4feaed6928a9")
 	)
+	(text "Is reversed due \nto UART requirements"
+		(exclude_from_sim no)
+		(at 230.632 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "541bb28d-28ca-494d-8558-f2758ce49f42")
+	)
 	(text "W25Q16JV 16 Mbit Flash Memory\n6 PTS at 16 bits for 40 seconds of logging at 800 Htz\nCheck documentation for calculations\nMinimum Required Data 5 Mbits\n"
 		(exclude_from_sim no)
 		(at 94.615 229.235 0)
@@ -15937,7 +15947,7 @@
 	)
 	(global_label "TXD0"
 		(shape input)
-		(at 226.695 80.645 0)
+		(at 226.695 83.185 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15947,7 +15957,7 @@
 		)
 		(uuid "7a4ab9da-332c-4489-8970-28b24a85af25")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.3368 80.645 0)
+			(at 234.3368 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16971,7 +16981,7 @@
 	)
 	(global_label "RXD0"
 		(shape input)
-		(at 226.695 83.185 0)
+		(at 226.695 80.645 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16981,7 +16991,7 @@
 		)
 		(uuid "e58cb3d7-c6e7-451e-9198-61babb9a47e5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.6392 83.185 0)
+			(at 234.6392 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
