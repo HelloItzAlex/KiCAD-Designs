@@ -10072,12 +10072,6 @@
 		(uuid "0d47d639-c720-40ba-b9f2-fb4e452fb324")
 	)
 	(junction
-		(at 27.94 239.395)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "105a4626-40fe-47f1-a718-870919a4d43d")
-	)
-	(junction
 		(at 116.84 65.405)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10112,12 +10106,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "289aa286-464b-4929-ac15-5c802fe66235")
-	)
-	(junction
-		(at 338.455 145.415)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "29ccf775-7c2a-412f-ade6-800b0692c428")
 	)
 	(junction
 		(at 107.95 24.765)
@@ -10390,6 +10378,10 @@
 	(no_connect
 		(at 408.94 205.105)
 		(uuid "2f37ba69-9bcf-4cfd-aa85-a1bc3d9bdfa3")
+	)
+	(no_connect
+		(at 31.75 244.475)
+		(uuid "565867e2-0b33-45a2-bfc7-9fa97c4f337a")
 	)
 	(no_connect
 		(at 387.35 113.665)
@@ -10759,7 +10751,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 239.395) (xy 31.75 239.395)
+			(xy 15.875 239.395) (xy 31.75 239.395)
 		)
 		(stroke
 			(width 0)
@@ -10996,16 +10988,6 @@
 			(type default)
 		)
 		(uuid "1c46842b-fb13-46e9-8c78-4a510692d80e")
-	)
-	(wire
-		(pts
-			(xy 27.94 239.395) (xy 27.94 244.475)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c690a40-5e7f-48a2-9ab6-d7521d286e45")
 	)
 	(wire
 		(pts
@@ -11869,16 +11851,6 @@
 	)
 	(wire
 		(pts
-			(xy 15.875 239.395) (xy 27.94 239.395)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "527a5f9d-a9d4-4c6c-a089-dcd75cdcb99d")
-	)
-	(wire
-		(pts
 			(xy 27.94 110.49) (xy 27.94 108.585)
 		)
 		(stroke
@@ -12506,16 +12478,6 @@
 			(type default)
 		)
 		(uuid "75b69a95-6e98-4036-b56c-0aed9c1a4ca0")
-	)
-	(wire
-		(pts
-			(xy 346.075 156.845) (xy 346.075 158.115)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76728c05-17a7-4066-9187-c592f63484d1")
 	)
 	(wire
 		(pts
@@ -13889,16 +13851,6 @@
 	)
 	(wire
 		(pts
-			(xy 346.075 149.225) (xy 346.075 145.415)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1f30fe9-31cd-41b5-a41b-fa02e2fd0e53")
-	)
-	(wire
-		(pts
 			(xy 76.835 211.455) (xy 76.835 209.55)
 		)
 		(stroke
@@ -14169,16 +14121,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 244.475) (xy 27.94 244.475)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6d747ba-7a0a-4a28-abd4-ee6ca0cd6b25")
-	)
-	(wire
-		(pts
 			(xy 289.56 200.66) (xy 291.465 200.66)
 		)
 		(stroke
@@ -14236,16 +14178,6 @@
 			(type default)
 		)
 		(uuid "ea967c75-2e06-4e67-9ea4-c65bb686539d")
-	)
-	(wire
-		(pts
-			(xy 346.075 145.415) (xy 338.455 145.415)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eacf1d30-b63a-4672-82fd-d0e0b37041c9")
 	)
 	(wire
 		(pts
@@ -14929,9 +14861,9 @@
 		)
 		(uuid "f3d5f6e1-8a94-42b9-894a-84bc6980a7ba")
 	)
-	(text "5V OUT CONFIG"
+	(text "~6.25V OUT CONFIG"
 		(exclude_from_sim no)
-		(at 122.555 17.145 0)
+		(at 120.65 16.256 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19457,7 +19389,7 @@
 				)
 			)
 		)
-		(property "Value" "52.3k"
+		(property "Value" "68k"
 			(at 116.84 29.845 90)
 			(effects
 				(font
@@ -23582,76 +23514,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 346.075 153.035 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "80798897-2ace-4d5b-bf19-00b402ca8265")
-		(property "Reference" "C5"
-			(at 352.425 152.019 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 352.425 154.559 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 345.1098 156.845 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 346.075 153.035 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 346.075 153.035 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "558e8cd3-0aad-4333-b2ab-19b08f4e6804")
-		)
-		(pin "2"
-			(uuid "9b016205-6649-4a8a-952d-e7a4222fa081")
-		)
-		(instances
-			(project "Constellation Stack V1.1"
-				(path "/06ddcaa0-ac6e-44b3-adb2-f0cfced90a77"
-					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PTS636 SM50J SMTR LFS:PTS636_SM50J_SMTR_LFS")
 		(at 338.455 162.56 90)
 		(unit 1)
@@ -26271,73 +26133,6 @@
 			(project "LAF Board Proto V1.0"
 				(path "/06ddcaa0-ac6e-44b3-adb2-f0cfced90a77"
 					(reference "C20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 346.075 158.115 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b8497f65-5ab1-4254-981d-8b77b793ceb3")
-		(property "Reference" "#PWR056"
-			(at 346.075 164.465 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 346.075 163.195 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 346.075 158.115 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 346.075 158.115 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 346.075 158.115 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3a25175c-fb28-48fe-948a-f0a4c1014ca9")
-		)
-		(instances
-			(project "Constellation Stack V1.1"
-				(path "/06ddcaa0-ac6e-44b3-adb2-f0cfced90a77"
-					(reference "#PWR056")
 					(unit 1)
 				)
 			)
