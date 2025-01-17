@@ -461,7 +461,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Constellation Stack V2.0.kicad_pro",
+    "filename": "Constellation Saddle V1.0.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -496,7 +496,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbs/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
