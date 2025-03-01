@@ -9495,12 +9495,12 @@
 		(uuid "09cd3f41-2046-415b-8053-5b6f30287173")
 	)
 	(no_connect
-		(at 375.285 188.595)
-		(uuid "255d6b01-e98c-4d0e-9581-65422a45f09b")
+		(at 407.67 215.9)
+		(uuid "1c76a6aa-3076-4c57-aff9-c212585ae1ac")
 	)
 	(no_connect
-		(at 132.715 204.47)
-		(uuid "495e77e9-4eec-443c-b73b-a56b9ce5ef82")
+		(at 375.285 188.595)
+		(uuid "255d6b01-e98c-4d0e-9581-65422a45f09b")
 	)
 	(no_connect
 		(at 57.15 21.59)
@@ -13336,6 +13336,16 @@
 		)
 		(uuid "dca64ac5-6688-4753-bf7d-b079eb36ac74")
 	)
+	(wire
+		(pts
+			(xy 130.81 204.47) (xy 132.715 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd8617c7-bad3-4b80-80e0-45f6449d7e38")
+	)
 	(polyline
 		(pts
 			(xy 12.065 229.87) (xy 94.615 229.87)
@@ -13990,28 +14000,6 @@
 			)
 		)
 	)
-	(global_label "GPIO_OUT_5"
-		(shape input)
-		(at 226.695 116.84 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "13858fa7-7b4d-4b59-85ac-eb0bd1ec4866")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 240.9288 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "RXD1"
 		(shape input)
 		(at 57.15 111.125 270)
@@ -14311,6 +14299,28 @@
 		(uuid "40b01b25-a03d-412f-80f3-ab7bb2784d00")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 234.3368 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SD_CARD_DETECT"
+		(shape input)
+		(at 226.695 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "40d70981-ea00-4992-a1fb-b0e01496a995")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 245.7667 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15178,6 +15188,28 @@
 			)
 		)
 	)
+	(global_label "SD_CARD_DETECT"
+		(shape input)
+		(at 130.81 204.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9f8f196e-d29b-4eaf-9cc4-6e9f7920a6bd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.7383 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BUCK_OUT"
 		(shape input)
 		(at 23.495 111.76 270)
@@ -15724,28 +15756,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GPIO_OUT_5"
-		(shape input)
-		(at 407.67 215.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c6ef62a1-60cb-42c5-9164-aff18948c9a4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.4362 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -20644,7 +20654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 35.56 109.22 0)
 			(effects
 				(font
@@ -20844,7 +20854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 72.39 109.22 0)
 			(effects
 				(font
@@ -22753,7 +22763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 64.77 109.22 0)
 			(effects
 				(font
@@ -22888,7 +22898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 38.1 109.22 0)
 			(effects
 				(font
@@ -23156,7 +23166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 62.23 109.22 0)
 			(effects
 				(font
@@ -24792,7 +24802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 33.02 109.22 0)
 			(effects
 				(font
@@ -27931,7 +27941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 69.85 109.22 0)
 			(effects
 				(font
