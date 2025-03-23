@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.7,
-          "width": 1.7
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -139,8 +139,6 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0,
         "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
@@ -461,7 +459,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "error",
+      "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -481,7 +479,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Constellation Stack V3.0.kicad_pro",
+    "filename": "Constellation STAR UAF V2.0.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -587,110 +585,32 @@
         },
         {
           "group_by": false,
-          "label": "AVAILABILITY",
-          "name": "AVAILABILITY",
+          "label": "Height",
+          "name": "Height",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Check_prices",
-          "name": "Check_prices",
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
           "show": false
         },
         {
           "group_by": false,
-          "label": "DESCRIPTION",
-          "name": "DESCRIPTION",
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Description_1",
-          "name": "Description_1",
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
           "show": false
         },
         {
           "group_by": false,
-          "label": "DigiKey_Part_Number",
-          "name": "DigiKey_Part_Number",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MANUFACTURER",
-          "name": "MANUFACTURER",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MAXIMUM_PACKAGE_HEIGHT",
-          "name": "MAXIMUM_PACKAGE_HEIGHT",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MF",
-          "name": "MF",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MP",
-          "name": "MP",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "PACKAGE",
-          "name": "PACKAGE",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "PARTREV",
-          "name": "PARTREV",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "PRICE",
-          "name": "PRICE",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "PURCHASE-URL",
-          "name": "PURCHASE-URL",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Package",
-          "name": "Package",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Purchase-URL",
-          "name": "Purchase-URL",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "SNAPEDA_PN",
-          "name": "SNAPEDA_PN",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "STANDARD",
-          "name": "STANDARD",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "SnapEDA_Link",
-          "name": "SnapEDA_Link",
+          "label": "Mouser Price/Stock",
+          "name": "Mouser Price/Stock",
           "show": false
         },
         {
@@ -749,7 +669,7 @@
   },
   "sheets": [
     [
-      "06ddcaa0-ac6e-44b3-adb2-f0cfced90a77",
+      "56d27837-56f4-4cfb-86a6-3354504f013c",
       "Root"
     ]
   ],

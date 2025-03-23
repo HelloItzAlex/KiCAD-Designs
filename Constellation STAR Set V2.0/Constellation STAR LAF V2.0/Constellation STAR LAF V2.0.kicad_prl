@@ -20,7 +20,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -49,7 +49,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0ffffff5_fff5ff2f",
+    "visible_layers": "00000000_00000000_0ffcfffd_fff7ffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -59,13 +59,11 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Constellation Stack V3.0.kicad_prl",
+    "filename": "Constellation STAR LAF V2.0.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
-      false,
-      false,
       false,
       false,
       false,
@@ -87,9 +85,7 @@
       6,
       7,
       8,
-      9,
-      10,
-      11
+      9
     ],
     "col_widths": [
       149,
@@ -100,8 +96,6 @@
       90,
       90,
       66,
-      90,
-      90,
       90,
       90
     ],
