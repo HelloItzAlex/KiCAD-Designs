@@ -6617,6 +6617,12 @@
 		(uuid "0428a133-5ec4-4e0d-b423-00509f05fe66")
 	)
 	(junction
+		(at 81.915 207.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0500469e-da73-46db-9147-440d51186b69")
+	)
+	(junction
 		(at 151.13 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6645,6 +6651,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "09f7d140-eb27-49c3-915e-ac059b369a42")
+	)
+	(junction
+		(at 81.915 213.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0ba3d1f4-863d-4abe-9edf-42a451a8191d")
 	)
 	(junction
 		(at 111.76 170.18)
@@ -8944,6 +8956,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.915 210.82) (xy 79.375 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "027d9ebc-dc61-4e83-b078-b162294061e5")
+	)
+	(wire
+		(pts
 			(xy 483.235 142.875) (xy 481.33 142.875)
 		)
 		(stroke
@@ -9281,6 +9303,16 @@
 			(type default)
 		)
 		(uuid "075aa7ea-f1e8-4a86-a242-49683e7f32df")
+	)
+	(wire
+		(pts
+			(xy 99.695 207.01) (xy 95.885 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07be61cc-1545-4e18-ab9a-aae531795229")
 	)
 	(wire
 		(pts
@@ -10071,6 +10103,16 @@
 			(type default)
 		)
 		(uuid "15f969b2-7127-4c70-8b1b-a8262e4e1c0e")
+	)
+	(wire
+		(pts
+			(xy 81.915 208.28) (xy 79.375 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15faa0e1-2278-4a4b-b7fd-2f3ce31bea62")
 	)
 	(wire
 		(pts
@@ -11514,6 +11556,26 @@
 	)
 	(wire
 		(pts
+			(xy 81.915 213.36) (xy 79.375 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3270bdbb-2095-4cba-947d-ac267cb0b4a2")
+	)
+	(wire
+		(pts
+			(xy 97.155 177.8) (xy 97.155 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32a3cba4-9654-4874-8cce-ca682378e255")
+	)
+	(wire
+		(pts
 			(xy 311.15 33.02) (xy 311.15 34.29)
 		)
 		(stroke
@@ -11944,6 +12006,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.695 203.2) (xy 99.695 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c10e28a-5f11-4275-a78e-67fea9f5d318")
+	)
+	(wire
+		(pts
 			(xy 289.56 189.23) (xy 285.75 189.23)
 		)
 		(stroke
@@ -12344,6 +12416,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.755 172.72) (xy 71.755 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41e15e1c-ffc2-4358-ad38-c4bcb54505f2")
+	)
+	(wire
+		(pts
 			(xy 401.32 78.74) (xy 401.32 80.01)
 		)
 		(stroke
@@ -12634,6 +12716,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.755 176.53) (xy 75.565 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "475aa59c-7889-45bc-8f00-c9c1ec4ecc76")
+	)
+	(wire
+		(pts
 			(xy 231.14 201.93) (xy 233.68 201.93)
 		)
 		(stroke
@@ -12834,6 +12926,16 @@
 	)
 	(wire
 		(pts
+			(xy 97.155 176.53) (xy 94.615 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b6e2f64-dd29-473c-a7f8-fd35629e2315")
+	)
+	(wire
+		(pts
 			(xy 401.32 190.5) (xy 410.21 190.5)
 		)
 		(stroke
@@ -13001,6 +13103,16 @@
 			(type default)
 		)
 		(uuid "4d2c52fe-6433-4de6-b0dc-d63953b62aa0")
+	)
+	(wire
+		(pts
+			(xy 81.915 205.74) (xy 81.915 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dce90b1-2f8c-444d-ac70-b29a21959960")
 	)
 	(wire
 		(pts
@@ -13644,6 +13756,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.805 215.9) (xy 90.805 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cb2c198-4d41-4ae0-8982-35dfd95fcbd6")
+	)
+	(wire
+		(pts
 			(xy 243.84 63.5) (xy 243.84 64.77)
 		)
 		(stroke
@@ -13981,6 +14103,26 @@
 			(type default)
 		)
 		(uuid "62d48a72-7ffb-482a-adeb-512abb53cf48")
+	)
+	(wire
+		(pts
+			(xy 81.915 213.36) (xy 81.915 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62e8178d-39b1-4e1f-92b1-c17b43b76f0e")
+	)
+	(wire
+		(pts
+			(xy 85.725 207.01) (xy 81.915 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62f4308c-db62-4130-be00-ebc78926b31a")
 	)
 	(wire
 		(pts
@@ -14711,6 +14853,16 @@
 			(type default)
 		)
 		(uuid "706add39-365c-4db2-a0ff-c2ce27e24fdf")
+	)
+	(wire
+		(pts
+			(xy 81.915 215.9) (xy 81.915 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "706dfdce-e1d6-42ee-99f9-553c3cc8ca15")
 	)
 	(wire
 		(pts
@@ -19114,6 +19266,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.185 176.53) (xy 86.995 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c61b179c-e40d-4703-895f-f6536147ab92")
+	)
+	(wire
+		(pts
 			(xy 252.73 367.03) (xy 252.73 363.22)
 		)
 		(stroke
@@ -19734,6 +19896,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.915 205.74) (xy 79.375 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfebcb4b-1eaf-4458-a861-20c8c060b55c")
+	)
+	(wire
+		(pts
 			(xy 228.6 228.6) (xy 231.14 228.6)
 		)
 		(stroke
@@ -20331,6 +20503,16 @@
 			(type default)
 		)
 		(uuid "dbfb9757-efd6-4a0d-895d-da30e41ebaf1")
+	)
+	(wire
+		(pts
+			(xy 513.715 168.275) (xy 511.81 168.275)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc2a01f0-a057-44e1-880f-ba6455e5a7d4")
 	)
 	(wire
 		(pts
@@ -21224,6 +21406,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.915 207.01) (xy 81.915 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb835030-bc91-49fe-8367-b21663e2cb1b")
+	)
+	(wire
+		(pts
 			(xy 78.74 308.61) (xy 78.74 309.88)
 		)
 		(stroke
@@ -21321,6 +21513,16 @@
 			(type default)
 		)
 		(uuid "ecceba04-95bd-466e-babe-97d5414e2dcc")
+	)
+	(wire
+		(pts
+			(xy 513.715 165.735) (xy 511.81 165.735)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecd1bfbe-7e77-47be-88ac-6953356dc813")
 	)
 	(wire
 		(pts
@@ -22584,6 +22786,28 @@
 			)
 		)
 	)
+	(global_label "NI9205B_PWR"
+		(shape input)
+		(at 513.715 165.735 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "06afcb84-34b7-4943-9501-cc9be1e83d8a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 529.7025 165.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "NI9205A_AI1"
 		(shape input)
 		(at 114.3 134.62 270)
@@ -23398,29 +23622,7 @@
 			)
 		)
 	)
-	(global_label "NI9205_PWR"
-		(shape input)
-		(at 220.98 168.91 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "17775025-2d9f-4c02-ad1d-e48d19e5a2d1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.98 154.1925 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "NI9205_PWR"
+	(global_label "NI9205A_PWR"
 		(shape input)
 		(at 143.51 30.48 90)
 		(fields_autoplaced yes)
@@ -23430,9 +23632,9 @@
 			)
 			(justify left)
 		)
-		(uuid "19079ffa-c7a9-43be-a9d4-3f461893d7eb")
+		(uuid "188d068e-02bf-4cdd-a3a2-9aa89d71a022")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 15.7625 90)
+			(at 143.51 14.6739 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23719,28 +23921,6 @@
 		(uuid "23343e07-d1e1-486b-8e92-2422434421ef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 260.35 330.6619 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "NI9205_PWR"
-		(shape input)
-		(at 105.41 168.91 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "23752b4e-007a-4a76-a2c2-6b062830fcd9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 154.1925 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24344,28 +24524,6 @@
 			)
 		)
 	)
-	(global_label "NI9205_PWR"
-		(shape input)
-		(at 105.41 29.21 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3692ced4-8f87-4bb4-8b32-e5a9679dbcc2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 14.4925 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "NI9205A_AI6"
 		(shape input)
 		(at 483.235 58.42 0)
@@ -24428,6 +24586,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NI9205A_PWR"
+		(shape input)
+		(at 71.12 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "38d51f0e-826c-4f3a-be31-7ffa2feb048c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.12 22.2939 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -25290,28 +25470,6 @@
 			)
 		)
 	)
-	(global_label "NI9205_PWR"
-		(shape input)
-		(at 182.88 168.91 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "501dd612-953a-428c-8188-b237ed0a642a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.88 154.1925 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "NI9205B_AI28"
 		(shape input)
 		(at 234.95 247.65 90)
@@ -25721,6 +25879,28 @@
 		(uuid "5b19bed1-ef99-4584-904a-619141439b53")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 500.1297 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NI9205B_PWR"
+		(shape input)
+		(at 99.695 203.2 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5be11079-bce1-4870-abf1-b4f6a26c24c0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.695 187.2125 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26227,6 +26407,28 @@
 		(uuid "6a4d278e-2cd5-445f-80e9-1aa53e9d6c37")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 53.3014 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NI9205B_PWR"
+		(shape input)
+		(at 143.51 168.91 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6a7594dd-f456-4513-8005-94df4f25815f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 143.51 152.9225 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26865,6 +27067,28 @@
 		(uuid "7ae36f16-e9c8-4a90-aba9-3803ea7ffb6c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 227.33 92.0229 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NI9205B_PWR"
+		(shape input)
+		(at 220.98 168.91 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7baf7936-bb7c-4236-bd1d-d47a7e4b2864")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 220.98 152.9225 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27644,6 +27868,28 @@
 			)
 		)
 	)
+	(global_label "NI9205A_PWR"
+		(shape input)
+		(at 182.88 30.48 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8dec29d2-9c15-48e6-b443-c2b95e0ce821")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.88 14.6739 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "NI9485A_24V+"
 		(shape input)
 		(at 289.56 72.39 0)
@@ -27701,6 +27947,28 @@
 		(uuid "8fc80451-cbd1-49f1-ab97-fcf0cf5a720e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 53.3014 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NI9205B_PWR"
+		(shape input)
+		(at 182.88 168.91 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "901ebdd1-38fc-4a5e-b705-251889fe27ab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.88 152.9225 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27996,7 +28264,7 @@
 			)
 		)
 	)
-	(global_label "NI9205_PWR"
+	(global_label "NI9205A_PWR"
 		(shape input)
 		(at 99.06 68.58 90)
 		(fields_autoplaced yes)
@@ -28008,7 +28276,29 @@
 		)
 		(uuid "97c7aad2-e355-488b-abac-c0438b85c702")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.06 53.8625 90)
+			(at 99.06 52.7739 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NI9205A_PWR"
+		(shape input)
+		(at 105.41 29.21 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "97e39cf5-3810-4e9b-95c5-fb5865f26f15")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.41 13.4039 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28163,28 +28453,6 @@
 		(uuid "9b81d84d-7ef6-4789-9391-8c130d7d7d61")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 499.1621 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "NI9205_PWR"
-		(shape input)
-		(at 182.88 30.48 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9bf891e0-446a-449b-8f4b-d3acbe5345fa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.88 15.7625 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28436,28 +28704,6 @@
 			)
 		)
 	)
-	(global_label "NI9205_PWR"
-		(shape input)
-		(at 143.51 168.91 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9f1b011f-71d3-4151-9a40-f500806c6408")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 154.1925 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "NI9485A_24V+"
 		(shape input)
 		(at 289.56 52.07 0)
@@ -28493,6 +28739,28 @@
 		(uuid "9f7ea8f9-1515-4bb0-b5e5-2e3daa0b397a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 46.3466 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NI9205B_PWR"
+		(shape input)
+		(at 105.41 168.91 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9ffec05f-c280-45c9-a1a9-92be0dd7fb47")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.41 152.9225 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28546,7 +28814,7 @@
 			)
 		)
 	)
-	(global_label "NI9205_PWR"
+	(global_label "NI9205A_PWR"
 		(shape input)
 		(at 483.235 38.1 0)
 		(fields_autoplaced yes)
@@ -28558,7 +28826,7 @@
 		)
 		(uuid "a0fd6883-e19d-448b-893a-87a367dd9e9e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 497.9525 38.1 0)
+			(at 499.0411 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28845,28 +29113,6 @@
 		(uuid "a775ff4e-feaa-4b38-93fb-825477fb70e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 500.1297 163.195 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "NI9205_PWR"
-		(shape input)
-		(at 71.12 38.1 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a77dc6bc-257e-4897-a871-69031432c38d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.12 23.3825 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30724,6 +30970,28 @@
 			)
 		)
 	)
+	(global_label "NI9205A_PWR"
+		(shape input)
+		(at 220.98 30.48 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d434a9c2-4b02-419f-9bfa-43c0f795c6c4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 220.98 14.6739 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "NI9485B_CH4B"
 		(shape input)
 		(at 400.05 147.32 180)
@@ -30781,6 +31049,28 @@
 		(uuid "d5955d9d-2fc8-4aac-92bc-1c67f6e91045")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 163.83 231.5415 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NI9205B_PWR"
+		(shape input)
+		(at 71.755 172.72 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d72adc84-af43-422b-a46c-b8a360b7d138")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.755 156.7325 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31094,6 +31384,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COM"
+		(shape input)
+		(at 513.715 168.275 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dea18077-f07a-41bd-a415-b4d42b2fe033")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 520.7521 168.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -31683,28 +31995,6 @@
 		(uuid "ebccffac-86fd-4c7b-8b9a-28f7555333f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 520.7521 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "NI9205_PWR"
-		(shape input)
-		(at 220.98 30.48 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ec793e15-6ed1-4c2a-b2ca-14be7d784126")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.98 15.7625 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32507,6 +32797,71 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 511.81 165.735 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "010af59e-cbf6-4830-b93c-14653a6070fe")
+		(property "Reference" "TP89"
+			(at 505.968 165.735 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 508.508 163.195 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+			(at 511.81 160.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 511.81 160.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 511.81 165.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e7acbb25-910b-4ba3-86ac-56c315d00c66")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "TP89")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 481.33 68.58 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -32787,7 +33142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06f66f09-63b2-42ad-8556-6699e201868c")
-		(property "Reference" "D12"
+		(property "Reference" "D13"
 			(at 392.7475 128.27 0)
 			(effects
 				(font
@@ -32848,7 +33203,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D12")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -32864,7 +33219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "072d021b-fcb4-46c2-abbb-c052345a89e6")
-		(property "Reference" "R6"
+		(property "Reference" "R7"
 			(at 365.76 68.5799 0)
 			(effects
 				(font
@@ -32918,7 +33273,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -33131,7 +33486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a12f41a-b6fb-4012-9099-b4448477c06e")
-		(property "Reference" "R5"
+		(property "Reference" "R6"
 			(at 365.76 54.6099 0)
 			(effects
 				(font
@@ -33185,7 +33540,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R5")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -33646,6 +34001,83 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "2602_1102:2601-1102")
+		(at 79.375 213.36 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0ed0861b-368e-472c-bdb6-f341c1bee860")
+		(property "Reference" "J16"
+			(at 78.613 200.914 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PWRCONN"
+			(at 78.613 198.374 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "WAGO 2601-1102:CONN2_2601-1102_WAG"
+			(at 79.375 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "2601-1102"
+			(at 79.375 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 79.375 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "439aaab9-19fd-4e18-a819-c1d0b2d288c3")
+		)
+		(pin "2"
+			(uuid "3eb00d3e-1efc-41a0-a174-6ff34afc3fc4")
+		)
+		(pin "1"
+			(uuid "d2959146-2097-4800-9311-f764eeccd3a4")
+		)
+		(pin "3"
+			(uuid "57b29b56-b4a7-4127-9c42-ed4e7faf2a8d")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -34164,6 +34596,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 81.915 215.9 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15d08c98-8547-44a7-870e-287ba450a4c3")
+		(property "Reference" "#PWR010"
+			(at 81.915 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 81.915 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.915 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.915 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 81.915 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1fdc333d-d378-4e62-97eb-55f39fde7d59")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 401.32 181.61 0)
 		(unit 1)
@@ -34173,7 +34673,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "161e11d0-f22b-47e0-a400-0f6a288ec542")
-		(property "Reference" "R19"
+		(property "Reference" "R20"
 			(at 403.86 180.3399 0)
 			(effects
 				(font
@@ -34227,7 +34727,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R19")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -34413,7 +34913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16f0a9ec-9b4c-45a5-b296-ec3a17a89767")
-		(property "Reference" "Q2"
+		(property "Reference" "Q3"
 			(at 224.79 326.39 90)
 			(effects
 				(font
@@ -34471,7 +34971,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "Q2")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -34986,7 +35486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19acdfb7-bdbe-42f1-8da3-ace0d3339820")
-		(property "Reference" "D9"
+		(property "Reference" "D10"
 			(at 412.75 54.6099 90)
 			(effects
 				(font
@@ -35058,7 +35558,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D9")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -35139,7 +35639,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a2a6304-419e-486b-b325-3286ae710c7e")
-		(property "Reference" "D5"
+		(property "Reference" "D7"
 			(at 374.65 68.5799 90)
 			(effects
 				(font
@@ -35211,7 +35711,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D5")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -35822,7 +36322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "264e3a8a-decd-4c59-a4e5-820033e8a820")
-		(property "Reference" "R17"
+		(property "Reference" "R18"
 			(at 403.86 151.1299 0)
 			(effects
 				(font
@@ -35876,7 +36376,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R17")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -36448,7 +36948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a24b355-4d22-4176-8dcc-5266cc505d22")
-		(property "Reference" "D3"
+		(property "Reference" "D5"
 			(at 374.65 39.3699 90)
 			(effects
 				(font
@@ -36520,7 +37020,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D3")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -36536,7 +37036,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bdf030a-2a3a-4992-b4dc-5f6be32089d3")
-		(property "Reference" "R10"
+		(property "Reference" "R11"
 			(at 403.86 68.5799 0)
 			(effects
 				(font
@@ -36590,7 +37090,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R10")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -36938,7 +37438,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32ecdece-ffd7-4813-a94b-52e42d7e3b18")
-		(property "Reference" "R18"
+		(property "Reference" "R19"
 			(at 403.86 166.3699 0)
 			(effects
 				(font
@@ -36992,7 +37492,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R18")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -37008,7 +37508,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "352d843e-5902-4555-94dd-a5d102537e3a")
-		(property "Reference" "Q3"
+		(property "Reference" "Q4"
 			(at 320.04 27.94 90)
 			(effects
 				(font
@@ -37066,7 +37566,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "Q3")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -37737,7 +38237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39dfecf5-4873-4d03-b634-b8b05b40c05c")
-		(property "Reference" "D11"
+		(property "Reference" "D12"
 			(at 412.75 82.5499 90)
 			(effects
 				(font
@@ -37809,7 +38309,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D11")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -37825,7 +38325,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a6212f5-bb32-41d1-8f1f-97f36fc81dc0")
-		(property "Reference" "R7"
+		(property "Reference" "R8"
 			(at 365.76 82.5499 0)
 			(effects
 				(font
@@ -37879,7 +38379,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R7")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -38665,7 +39165,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "491859b1-05bf-4f7f-807a-75f6193dc353")
-		(property "Reference" "R13"
+		(property "Reference" "R14"
 			(at 365.76 151.1299 0)
 			(effects
 				(font
@@ -38719,7 +39219,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R13")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -38998,7 +39498,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5158d335-f3b0-43d4-8d25-34601364a3cd")
-		(property "Reference" "D8"
+		(property "Reference" "D9"
 			(at 412.75 39.3699 90)
 			(effects
 				(font
@@ -39070,7 +39570,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D8")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -39582,7 +40082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b9639cb-e2e2-4eb7-b96a-f8acf071facd")
-		(property "Reference" "R8"
+		(property "Reference" "R9"
 			(at 403.86 39.3699 0)
 			(effects
 				(font
@@ -39636,7 +40136,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R8")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -41524,7 +42024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b89f977-d1a2-4d97-ba6e-31d8091b9e56")
-		(property "Reference" "D15"
+		(property "Reference" "D16"
 			(at 374.65 180.3399 90)
 			(effects
 				(font
@@ -41596,7 +42096,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D15")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -42188,7 +42688,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "714a411f-c41e-43f4-a7dd-e8d3b8e3ecc8")
-		(property "Reference" "Q4"
+		(property "Reference" "Q5"
 			(at 320.04 139.7 90)
 			(effects
 				(font
@@ -42246,7 +42746,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "Q4")
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -43229,7 +43729,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79bf8019-cbd0-4746-a333-36c0034c92e0")
-		(property "Reference" "R15"
+		(property "Reference" "R16"
 			(at 365.76 180.3399 0)
 			(effects
 				(font
@@ -43283,7 +43783,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R15")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -43299,7 +43799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ac1576e-64c3-4512-bbe6-61cf123f6b4a")
-		(property "Reference" "D18"
+		(property "Reference" "D19"
 			(at 412.75 166.3699 90)
 			(effects
 				(font
@@ -43371,7 +43871,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D18")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -43489,7 +43989,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e166898-6b45-40ec-ab74-9a03e3236569")
-		(property "Reference" "D14"
+		(property "Reference" "D15"
 			(at 374.65 166.3699 90)
 			(effects
 				(font
@@ -43561,7 +44061,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D14")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -43707,7 +44207,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f5fdf87-6e20-4849-af83-78a2493bb6c7")
-		(property "Reference" "R12"
+		(property "Reference" "R13"
 			(at 379.73 129.54 90)
 			(effects
 				(font
@@ -43759,7 +44259,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R12")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -44148,7 +44648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a689055-56d6-4272-bdc9-e0edfdbdea16")
-		(property "Reference" "R9"
+		(property "Reference" "R10"
 			(at 403.86 54.6099 0)
 			(effects
 				(font
@@ -44202,7 +44702,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R9")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -44622,7 +45122,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9124da83-0295-46f1-9ecd-8e60efd6f308")
-		(property "Reference" "R11"
+		(property "Reference" "R12"
 			(at 403.86 82.5499 0)
 			(effects
 				(font
@@ -44676,7 +45176,84 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R11")
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 90.805 176.53 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9193a6ee-5603-45bc-82ee-0d9c567e308c")
+		(property "Reference" "D2"
+			(at 92.3925 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 92.3925 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 90.805 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.805 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 90.805 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 90.805 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e189aa25-b30d-4196-ab45-9202b62ad69e")
+		)
+		(pin "1"
+			(uuid "a7f02199-4073-4994-a5b3-93ec3f428a5d")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -44692,7 +45269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "919ed926-b24a-4b49-80b3-0a1f0157f501")
-		(property "Reference" "D6"
+		(property "Reference" "D8"
 			(at 374.65 82.5499 90)
 			(effects
 				(font
@@ -44764,7 +45341,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D6")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -44929,6 +45506,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "J30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 79.375 176.53 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "937e3233-041c-49e0-b774-3a9af0d7fcd7")
+		(property "Reference" "R2"
+			(at 79.375 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1.1k"
+			(at 79.375 172.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 79.375 178.308 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 79.375 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 79.375 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "666338fb-f378-4c45-8142-adb18a51187a")
+		)
+		(pin "2"
+			(uuid "edab9639-a297-4d0e-9e8a-6cc509f41d7b")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -45344,7 +45989,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99343935-4a02-4133-9b3b-671249aefb61")
-		(property "Reference" "R16"
+		(property "Reference" "R17"
 			(at 365.76 194.3099 0)
 			(effects
 				(font
@@ -45398,7 +46043,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R16")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -45708,7 +46353,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d4d34dc-9079-4e0a-9ee2-a8ccac7d1d5d")
-		(property "Reference" "D20"
+		(property "Reference" "D21"
 			(at 412.75 194.3099 90)
 			(effects
 				(font
@@ -45780,7 +46425,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D20")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -46201,6 +46846,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "J43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 97.155 177.8 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a273340c-f12a-4a89-b505-5526e5648fd5")
+		(property "Reference" "#PWR017"
+			(at 97.155 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 97.155 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 97.155 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 97.155 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 97.155 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1f4a584-37b0-4b48-af59-46bdd92c9245")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -46715,7 +47428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "abd96d5d-57eb-42e7-873a-acbd1ef2f8bf")
-		(property "Reference" "D19"
+		(property "Reference" "D20"
 			(at 412.75 180.3399 90)
 			(effects
 				(font
@@ -46787,7 +47500,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D19")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -46803,7 +47516,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "abffe025-22cc-4909-9f0a-016b9adc751d")
-		(property "Reference" "D4"
+		(property "Reference" "D6"
 			(at 374.65 54.6099 90)
 			(effects
 				(font
@@ -46875,7 +47588,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D4")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -47187,7 +47900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b035dc9e-5ade-41ff-9fe8-acb3ef1029f6")
-		(property "Reference" "D7"
+		(property "Reference" "D4"
 			(at 391.4775 13.97 0)
 			(effects
 				(font
@@ -47248,7 +47961,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D7")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -48458,7 +49171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be98295e-239a-4da3-a753-2dd888aab492")
-		(property "Reference" "R2"
+		(property "Reference" "R3"
 			(at 203.2 304.8 90)
 			(effects
 				(font
@@ -48510,7 +49223,7 @@
 		(instances
 			(project ""
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -49545,6 +50258,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:FQP27P06")
+		(at 90.805 209.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c78efa95-ce8e-4e42-ba84-add1d2b2b70d")
+		(property "Reference" "Q2"
+			(at 90.805 200.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FQP27P06"
+			(at 90.805 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+			(at 92.71 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF"
+			(at 94.615 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "-27A Id, -60V Vds, QFET P-Channel MOSFET, TO-220"
+			(at 90.805 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "f1a2a5f5-1f97-45d8-84ca-c09e158848ab")
+		)
+		(pin "2"
+			(uuid "dcdac548-8cc3-4e58-a6c6-0710a94b3bdb")
+		)
+		(pin "1"
+			(uuid "63e39b03-f962-4397-b3d1-d15354d30dfe")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 481.33 153.035 90)
 		(unit 1)
@@ -49890,7 +50677,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d11591a2-8510-478b-844b-97a0069c2479")
-		(property "Reference" "D16"
+		(property "Reference" "D17"
 			(at 374.65 194.3099 90)
 			(effects
 				(font
@@ -49962,7 +50749,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D16")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -49978,7 +50765,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d25ba021-c4a9-4e32-9712-9da21be67367")
-		(property "Reference" "D17"
+		(property "Reference" "D18"
 			(at 412.75 151.1299 90)
 			(effects
 				(font
@@ -50050,7 +50837,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D17")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -50066,7 +50853,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d30e192e-da78-4f38-a9d7-80b0cccce7b6")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 216.2175 303.53 0)
 			(effects
 				(font
@@ -50127,7 +50914,7 @@
 		(instances
 			(project ""
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -50667,7 +51454,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dda8d893-eafe-413d-95ea-df468aef5da9")
-		(property "Reference" "R20"
+		(property "Reference" "R21"
 			(at 403.86 194.3099 0)
 			(effects
 				(font
@@ -50721,7 +51508,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R20")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -50935,7 +51722,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1abaab2-699d-452c-b4a0-0b9264094264")
-		(property "Reference" "R14"
+		(property "Reference" "R15"
 			(at 365.76 166.3699 0)
 			(effects
 				(font
@@ -50989,7 +51776,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R14")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -51005,7 +51792,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2dce4af-88eb-460f-a2be-941abd591b08")
-		(property "Reference" "D10"
+		(property "Reference" "D11"
 			(at 412.75 68.5799 90)
 			(effects
 				(font
@@ -51077,7 +51864,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D10")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -52037,7 +52824,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ecb12f78-459d-4751-8c16-8c012740af11")
-		(property "Reference" "D13"
+		(property "Reference" "D14"
 			(at 374.65 151.1299 90)
 			(effects
 				(font
@@ -52109,7 +52896,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "D13")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -52274,6 +53061,71 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "J24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 511.81 168.275 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "edefc829-a649-4fd3-97ab-3cb0184c4aef")
+		(property "Reference" "TP90"
+			(at 505.968 168.275 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 508.508 165.735 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+			(at 511.81 163.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 511.81 163.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 511.81 168.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "638445b6-0ab2-4380-9243-fa0eaf0c9499")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "TP90")
 					(unit 1)
 				)
 			)
@@ -53017,7 +53869,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4e82d54-76ec-4114-a238-904ace93e1c5")
-		(property "Reference" "R3"
+		(property "Reference" "R5"
 			(at 365.76 39.3699 0)
 			(effects
 				(font
@@ -53071,7 +53923,7 @@
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "R3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -53137,6 +53989,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "TP82")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 90.805 215.9 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6b4d1b3-5a7f-4da8-b97c-68701799234a")
+		(property "Reference" "#PWR04"
+			(at 90.805 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 90.805 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 90.805 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.805 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 90.805 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3c52ff73-e7dd-4ce5-bab1-d00091d9dd1d")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
