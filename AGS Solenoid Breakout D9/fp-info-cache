@@ -1,4 +1,4 @@
-25597576964633624
+25599328534074340
 2601-3106
 CONN6_2601-3106_WAG
 
@@ -95843,6 +95843,13 @@ Logo WEEE
 0
 0
 0
+TBLH10V-350-08BK
+RHDR16W80P550X350_2X8_2870X850X1420P
+TBLH10V-350-08BK height 14.2
+Connector
+0
+16
+16
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
