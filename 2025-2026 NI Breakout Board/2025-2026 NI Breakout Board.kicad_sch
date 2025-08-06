@@ -7151,12 +7151,6 @@
 		(uuid "0f8035e9-669c-40bb-be58-e3790298a673")
 	)
 	(junction
-		(at 417.83 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1035d8d6-67c2-4306-ad56-6e4fd0899ca7")
-	)
-	(junction
 		(at 78.74 328.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7227,12 +7221,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1690fc83-27aa-4ef1-adb6-a31a04a08184")
-	)
-	(junction
-		(at 379.73 393.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "170ab55a-88a4-4657-b11d-6ff06a812705")
 	)
 	(junction
 		(at 121.92 303.53)
@@ -7415,12 +7403,6 @@
 		(uuid "282572b0-58ce-4270-92ff-30acd04a3bfb")
 	)
 	(junction
-		(at 457.2 403.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2827e3cf-bc28-40bb-9e82-223ec07c1b37")
-	)
-	(junction
 		(at 443.23 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7467,12 +7449,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a921d43-809d-48f8-a307-645c05fd5f39")
-	)
-	(junction
-		(at 372.11 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2b066c3d-ba4a-450a-98b5-0f7fd98ddfc9")
 	)
 	(junction
 		(at 78.74 308.61)
@@ -7563,12 +7539,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35eac306-8efe-4340-87e5-b283c5676389")
-	)
-	(junction
-		(at 402.59 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "36238a36-05ab-4f19-89b9-cfb40e7bc3e1")
 	)
 	(junction
 		(at 241.3 58.42)
@@ -7733,12 +7703,6 @@
 		(uuid "45e634ae-7917-4bd7-ab14-20a82b6ff970")
 	)
 	(junction
-		(at 379.73 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "46ea83bb-b6ba-454c-88ed-275608f66d49")
-	)
-	(junction
 		(at 111.76 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7805,12 +7769,6 @@
 		(uuid "509434d9-903a-4a70-a805-2b9d0e4c7be4")
 	)
 	(junction
-		(at 410.21 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "50adb9c9-cdc0-45d6-9148-a713572c4ae3")
-	)
-	(junction
 		(at 161.29 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7827,12 +7785,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5215efbc-2837-489e-a2d6-b56df3877ea7")
-	)
-	(junction
-		(at 425.45 393.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "52b21700-c975-4914-beb2-69623870adbe")
 	)
 	(junction
 		(at 143.51 90.17)
@@ -8051,12 +8003,6 @@
 		(uuid "6cd5ac95-6b28-4ad5-b46f-a65af490cb35")
 	)
 	(junction
-		(at 387.35 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6cd7f36e-5521-4eec-aaa2-da7eae1a2d5c")
-	)
-	(junction
 		(at 196.85 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8081,28 +8027,10 @@
 		(uuid "70223752-a659-4f7f-b3c2-96ac7ec630cb")
 	)
 	(junction
-		(at 426.72 403.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "70ce3aab-e054-429b-b1d6-a0e6ac179ced")
-	)
-	(junction
 		(at 121.92 318.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "719db700-0a84-49f1-9444-c778f1e71191")
-	)
-	(junction
-		(at 394.97 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "72f27d24-6bac-4375-abd2-6d849bdf2722")
-	)
-	(junction
-		(at 434.34 403.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "744c9ddd-8eb3-4514-8d3e-1f971a15fde6")
 	)
 	(junction
 		(at 311.15 152.4)
@@ -8301,12 +8229,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "87171791-199c-4cae-a796-c0e07d419658")
-	)
-	(junction
-		(at 364.49 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "872efb4f-6e7a-4367-b0d5-85cf1d916b6f")
 	)
 	(junction
 		(at 215.9 332.74)
@@ -8537,12 +8459,6 @@
 		(uuid "a6e44dd9-3369-4e6c-993f-c332892a89db")
 	)
 	(junction
-		(at 387.35 393.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7de2d59-6e3b-4f26-98f1-51745b83a197")
-	)
-	(junction
 		(at 166.37 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8619,12 +8535,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1a2139e-9c11-4f72-91a4-a8525256980c")
-	)
-	(junction
-		(at 440.69 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b1e63161-d6fa-4925-87a6-5d711414560e")
 	)
 	(junction
 		(at 236.22 201.93)
@@ -8801,12 +8711,6 @@
 		(uuid "c6fbd52c-a54b-4449-ac25-af4cb3ea276a")
 	)
 	(junction
-		(at 372.11 393.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c760ad75-e2e7-48a0-ab68-5878d1dac369")
-	)
-	(junction
 		(at 189.23 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8867,22 +8771,10 @@
 		(uuid "cc14d500-228e-4f57-8430-55387b18faac")
 	)
 	(junction
-		(at 368.3 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cc46c4e6-4d48-40a3-b4a7-bb2794465232")
-	)
-	(junction
 		(at 401.32 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cc710333-7b3d-4ffb-8f60-3a1629be3820")
-	)
-	(junction
-		(at 433.07 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ccf64f1e-c906-45f5-aa58-d26fd014dfe9")
 	)
 	(junction
 		(at 127 201.93)
@@ -8907,12 +8799,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d0bc8c77-654c-4ef6-ac4b-3f70bba42541")
-	)
-	(junction
-		(at 425.45 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d1239bfa-3062-4dbf-bb3d-351f504a2f8e")
 	)
 	(junction
 		(at 243.84 63.5)
@@ -8987,12 +8873,6 @@
 		(uuid "d896b2fa-bf2c-4e9f-b0ef-0eaa403e6464")
 	)
 	(junction
-		(at 448.31 393.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d8a5fb5f-f673-4acc-84c8-a402343c14a5")
-	)
-	(junction
 		(at 236.22 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9039,12 +8919,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de525166-0642-4f3d-b054-5a71e25651db")
-	)
-	(junction
-		(at 410.21 393.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dee0a4bf-59ce-4817-94be-db810aacccb1")
 	)
 	(junction
 		(at 196.85 58.42)
@@ -9101,24 +8975,6 @@
 		(uuid "e73a0dc4-caf0-4708-ab9f-0139542e5b93")
 	)
 	(junction
-		(at 449.58 403.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e77f4f24-e948-414b-99d5-07b0452bfc5d")
-	)
-	(junction
-		(at 440.69 393.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ea56fe0d-0d8e-465b-a872-8a7154309dad")
-	)
-	(junction
-		(at 402.59 393.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eafbc966-e193-4660-aa14-395194b5fd9d")
-	)
-	(junction
 		(at 243.84 201.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9159,12 +9015,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f20c193c-b527-483b-bf54-1e571ed97625")
-	)
-	(junction
-		(at 394.97 393.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f232fb92-27a9-4467-b225-d1073387f8e0")
 	)
 	(junction
 		(at 199.39 228.6)
@@ -9209,22 +9059,10 @@
 		(uuid "f864a1dd-8cac-4111-8177-18892efb62d8")
 	)
 	(junction
-		(at 417.83 393.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8d980a6-db03-4a34-af7f-7c753483ec81")
-	)
-	(junction
 		(at 78.74 350.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fa509eb1-aa44-4190-b616-5cc95543df20")
-	)
-	(junction
-		(at 433.07 393.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fbfc18e4-0652-4c44-9f23-82db20df5e0e")
 	)
 	(junction
 		(at 257.81 326.39)
@@ -9239,12 +9077,6 @@
 		(uuid "fe06b5c4-3d49-42f6-aa0b-2e28129527cf")
 	)
 	(junction
-		(at 441.96 403.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fe1ed176-dc64-4196-a856-dbea0988ef3e")
-	)
-	(junction
 		(at 121.92 228.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9253,6 +9085,10 @@
 	(no_connect
 		(at 38.1 341.63)
 		(uuid "0380e829-e968-4059-8b03-d1de95e9f30c")
+	)
+	(no_connect
+		(at 387.35 388.62)
+		(uuid "0a99c2ed-023f-4206-a3d8-8618b6c97c41")
 	)
 	(no_connect
 		(at 38.1 339.09)
@@ -9279,12 +9115,32 @@
 		(uuid "3662d17e-b22e-4752-8d92-105517e3e012")
 	)
 	(no_connect
+		(at 372.11 388.62)
+		(uuid "3a568b82-d7b7-460c-bd05-8c990ee40ce8")
+	)
+	(no_connect
+		(at 379.73 388.62)
+		(uuid "3bff3589-f725-4717-8385-dff07a4df994")
+	)
+	(no_connect
+		(at 394.97 396.24)
+		(uuid "425b6cc5-ceec-48f0-a236-43ffb3d49526")
+	)
+	(no_connect
+		(at 417.83 388.62)
+		(uuid "42b19c67-c384-47e0-9fdc-a7b14873a738")
+	)
+	(no_connect
 		(at 285.75 34.29)
 		(uuid "441a3b05-7345-43b2-88ec-1f0d8ea05e74")
 	)
 	(no_connect
 		(at 285.75 140.97)
 		(uuid "48468b87-e889-4c39-9af2-fc9df1da7dc7")
+	)
+	(no_connect
+		(at 379.73 381)
+		(uuid "489a1544-c1a4-490f-b1c6-4300b10a8078")
 	)
 	(no_connect
 		(at 30.48 392.43)
@@ -9295,8 +9151,28 @@
 		(uuid "5107d033-3fb3-4f20-8bb4-1a30f11a4eaa")
 	)
 	(no_connect
+		(at 379.73 396.24)
+		(uuid "5159cd7b-b2b6-4a5f-bdb2-203149f81842")
+	)
+	(no_connect
+		(at 402.59 388.62)
+		(uuid "55ec390d-c973-4226-b925-5a5d79f7c4be")
+	)
+	(no_connect
+		(at 410.21 396.24)
+		(uuid "57bbd336-99cb-47da-a297-740b06e8ff8a")
+	)
+	(no_connect
 		(at 285.75 158.75)
 		(uuid "5854d8d6-625a-4ab2-bb87-b6e18d961e1d")
+	)
+	(no_connect
+		(at 433.07 388.62)
+		(uuid "58ec2956-3352-4bec-a1a8-5f1092bb8cd2")
+	)
+	(no_connect
+		(at 387.35 396.24)
+		(uuid "5a7f51c3-ba54-4361-8141-669b96cc6677")
 	)
 	(no_connect
 		(at 285.75 39.37)
@@ -9305,6 +9181,10 @@
 	(no_connect
 		(at 285.75 143.51)
 		(uuid "5dee0399-1123-443e-8000-1d988a169e7b")
+	)
+	(no_connect
+		(at 394.97 388.62)
+		(uuid "613d98e7-63ab-4dae-a831-4e1100f05546")
 	)
 	(no_connect
 		(at 36.83 31.75)
@@ -9319,6 +9199,14 @@
 		(uuid "67604bf6-f7ca-49af-b77a-68cf61d94898")
 	)
 	(no_connect
+		(at 410.21 381)
+		(uuid "6a132f3a-47cc-4e0c-bea7-6976d4b6e5a7")
+	)
+	(no_connect
+		(at 387.35 381)
+		(uuid "6c2c1973-2d56-4ae2-b7cd-0a4c5f13edc9")
+	)
+	(no_connect
 		(at 172.72 336.55)
 		(uuid "702b58b6-0fff-4690-b33d-3113e42efb7c")
 	)
@@ -9331,8 +9219,24 @@
 		(uuid "75dab65f-d011-4257-9d66-9d85fed71b8a")
 	)
 	(no_connect
+		(at 433.07 396.24)
+		(uuid "790b16ae-a954-408d-8d3e-5f568fb7bb34")
+	)
+	(no_connect
+		(at 394.97 381)
+		(uuid "7ae77de4-2aaf-4c17-926c-4fe42a5d47c2")
+	)
+	(no_connect
 		(at 285.75 44.45)
 		(uuid "7e40afcf-31d6-4b87-8de7-4277a1423954")
+	)
+	(no_connect
+		(at 387.35 403.86)
+		(uuid "806b586f-ad14-44d7-8e80-9e1eb0c4fb04")
+	)
+	(no_connect
+		(at 372.11 381)
+		(uuid "842e7649-04e5-4943-90f4-2f4b1ea32c0a")
 	)
 	(no_connect
 		(at 38.1 349.25)
@@ -9343,6 +9247,18 @@
 		(uuid "9653bc9f-ad02-48ec-b3e3-cafa5a234145")
 	)
 	(no_connect
+		(at 372.11 403.86)
+		(uuid "9acb6c89-6693-4a37-b362-7173e1f9d1a2")
+	)
+	(no_connect
+		(at 417.83 381)
+		(uuid "9e7b52dd-1e73-4aab-9048-46bab5124b72")
+	)
+	(no_connect
+		(at 425.45 381)
+		(uuid "9f8d5289-cb85-479d-8f8c-66454e230075")
+	)
+	(no_connect
 		(at 285.75 161.29)
 		(uuid "a15957c0-ab98-40c2-ad08-7ccc22553c3d")
 	)
@@ -9351,8 +9267,24 @@
 		(uuid "a8bd0f68-4128-4989-9131-ddc3f55d9eb6")
 	)
 	(no_connect
+		(at 379.73 403.86)
+		(uuid "a95b2f8e-63d6-49e7-9e13-20f8ee02d7eb")
+	)
+	(no_connect
 		(at 38.1 372.11)
 		(uuid "aa47f66e-7fc9-4094-b148-5fad1a560bb2")
+	)
+	(no_connect
+		(at 417.83 396.24)
+		(uuid "ac44d8cb-4416-4405-8c46-7f2c70746107")
+	)
+	(no_connect
+		(at 372.11 396.24)
+		(uuid "b03ffa57-586d-462b-9080-fed73a30238c")
+	)
+	(no_connect
+		(at 402.59 381)
+		(uuid "b0e6a595-4222-4fbc-91de-603b58b7d0fe")
 	)
 	(no_connect
 		(at 38.1 318.77)
@@ -9365,6 +9297,10 @@
 	(no_connect
 		(at 38.1 298.45)
 		(uuid "bc1a7608-4509-4926-911f-81ffc6ccb346")
+	)
+	(no_connect
+		(at 364.49 396.24)
+		(uuid "c679a2f1-4863-417c-b1b2-9ebf5c73c7a3")
 	)
 	(no_connect
 		(at 38.1 300.99)
@@ -9383,12 +9319,36 @@
 		(uuid "cdf71794-4d79-46dd-9300-e93dc5d40f75")
 	)
 	(no_connect
+		(at 364.49 381)
+		(uuid "cec534f9-b00b-4cc1-82d5-f1b2a28feeeb")
+	)
+	(no_connect
 		(at 172.72 331.47)
 		(uuid "d7b8fab1-9bd6-467b-b96b-784cd78bb7fb")
 	)
 	(no_connect
+		(at 410.21 388.62)
+		(uuid "d9906e96-bd74-41fc-bdca-93487002b6f9")
+	)
+	(no_connect
+		(at 433.07 381)
+		(uuid "e65fc9b7-0c94-4d54-9cc0-2c46872632db")
+	)
+	(no_connect
 		(at 285.75 151.13)
 		(uuid "e9ce80b9-676e-4d2b-9d45-905076fc1008")
+	)
+	(no_connect
+		(at 425.45 396.24)
+		(uuid "ec6f6776-2cea-44bb-ba3f-5e27fa432d9b")
+	)
+	(no_connect
+		(at 425.45 388.62)
+		(uuid "ed535eca-0e65-434d-8109-343545f6c059")
+	)
+	(no_connect
+		(at 402.59 396.24)
+		(uuid "eed24d4d-963b-47b4-aa05-ebe2d2bbd0d2")
 	)
 	(no_connect
 		(at 172.72 321.31)
@@ -9399,8 +9359,16 @@
 		(uuid "f8c41fd3-af51-489a-88ee-27cb8839e90a")
 	)
 	(no_connect
+		(at 364.49 403.86)
+		(uuid "f8d93c15-25a7-4010-9c02-be71378940c5")
+	)
+	(no_connect
 		(at 172.72 316.23)
 		(uuid "fbdbf741-a6ee-4b21-9646-970512e13e7e")
+	)
+	(no_connect
+		(at 364.49 388.62)
+		(uuid "fd50a9ba-9372-4778-9d2c-b2521efb6643")
 	)
 	(no_connect
 		(at 285.75 49.53)
@@ -9708,16 +9676,6 @@
 	)
 	(wire
 		(pts
-			(xy 464.82 401.32) (xy 464.82 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04b64d2d-795c-4667-b911-682cc005fca6")
-	)
-	(wire
-		(pts
 			(xy 62.23 190.5) (xy 59.69 190.5)
 		)
 		(stroke
@@ -9928,16 +9886,6 @@
 	)
 	(wire
 		(pts
-			(xy 440.69 391.16) (xy 440.69 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "078765dc-c935-495b-a434-2d4745cc6ea7")
-	)
-	(wire
-		(pts
 			(xy 121.92 303.53) (xy 121.92 304.8)
 		)
 		(stroke
@@ -10035,16 +9983,6 @@
 			(type default)
 		)
 		(uuid "09802e1e-29fa-42f6-a99a-25f764896b58")
-	)
-	(wire
-		(pts
-			(xy 425.45 381) (xy 425.45 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09c1f7cc-8149-48d3-a9cd-f8d06da933f3")
 	)
 	(wire
 		(pts
@@ -10538,16 +10476,6 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 391.16) (xy 402.59 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10280f44-82e9-4ba2-8691-40dc5862f3d6")
-	)
-	(wire
-		(pts
 			(xy 38.1 187.96) (xy 41.91 187.96)
 		)
 		(stroke
@@ -10805,16 +10733,6 @@
 			(type default)
 		)
 		(uuid "161a35d8-68a7-4435-a06c-f1ec380f32da")
-	)
-	(wire
-		(pts
-			(xy 433.07 393.7) (xy 440.69 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1623258c-f8cd-4fb1-b3c4-993f0423ebfe")
 	)
 	(wire
 		(pts
@@ -11088,16 +11006,6 @@
 	)
 	(wire
 		(pts
-			(xy 387.35 391.16) (xy 387.35 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a8c9318-6283-4e3a-a6f5-1575093fdc19")
-	)
-	(wire
-		(pts
 			(xy 201.93 274.32) (xy 201.93 271.78)
 		)
 		(stroke
@@ -11248,16 +11156,6 @@
 	)
 	(wire
 		(pts
-			(xy 448.31 393.7) (xy 455.93 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1fe655b3-7733-4e6d-a205-3c469f672fea")
-	)
-	(wire
-		(pts
 			(xy 196.85 228.6) (xy 199.39 228.6)
 		)
 		(stroke
@@ -11335,16 +11233,6 @@
 			(type default)
 		)
 		(uuid "20f78695-74cd-424c-815f-a7122f52ff9c")
-	)
-	(wire
-		(pts
-			(xy 394.97 383.54) (xy 402.59 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "215bc0fc-ca14-48f3-b6f4-57d6fb1dde7d")
 	)
 	(wire
 		(pts
@@ -11888,16 +11776,6 @@
 	)
 	(wire
 		(pts
-			(xy 449.58 403.86) (xy 457.2 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ade6e56-ef8b-4cf6-b0e0-b68d7dbd3d1f")
-	)
-	(wire
-		(pts
 			(xy 38.1 228.6) (xy 41.91 228.6)
 		)
 		(stroke
@@ -12235,16 +12113,6 @@
 			(type default)
 		)
 		(uuid "311d0bd8-a702-4416-93b3-2547ba16745a")
-	)
-	(wire
-		(pts
-			(xy 364.49 383.54) (xy 368.3 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3161826f-fd19-456f-8aa7-f742c83a9f54")
 	)
 	(wire
 		(pts
@@ -12766,16 +12634,6 @@
 		)
 		(uuid "3ca5d80e-bd54-423d-83e6-f9600acb395c")
 	)
-	(wire
-		(pts
-			(xy 448.31 381) (xy 448.31 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ce2fadc-60fa-4ccd-8031-d83e5347c7bf")
-	)
 	(polyline
 		(pts
 			(xy 539.75 123.19) (xy 539.75 234.95)
@@ -12825,16 +12683,6 @@
 			(type default)
 		)
 		(uuid "3d74af30-6d3b-4443-9c7f-d77f6cf34cf7")
-	)
-	(wire
-		(pts
-			(xy 364.49 386.08) (xy 364.49 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d850d77-ccc9-46c8-9c38-577cade81f36")
 	)
 	(wire
 		(pts
@@ -13228,16 +13076,6 @@
 	)
 	(wire
 		(pts
-			(xy 448.31 391.16) (xy 448.31 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43feb94d-a73f-447e-bf77-50ca51be866e")
-	)
-	(wire
-		(pts
 			(xy 363.22 186.69) (xy 363.22 185.42)
 		)
 		(stroke
@@ -13445,16 +13283,6 @@
 			(type default)
 		)
 		(uuid "46895417-761a-49a4-9c19-350966df580d")
-	)
-	(wire
-		(pts
-			(xy 372.11 381) (xy 372.11 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46d0e66e-5441-4660-8a11-4a213609e201")
 	)
 	(wire
 		(pts
@@ -13768,16 +13596,6 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 393.7) (xy 372.11 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4be62065-b535-41ee-945d-7924b4afefc0")
-	)
-	(wire
-		(pts
 			(xy 528.32 318.77) (xy 526.415 318.77)
 		)
 		(stroke
@@ -13785,16 +13603,6 @@
 			(type default)
 		)
 		(uuid "4c03aaf1-7ce7-4d55-a68e-0c029b6c5a70")
-	)
-	(wire
-		(pts
-			(xy 425.45 391.16) (xy 425.45 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c2bbaeb-bb0b-4a62-a90c-4e0887d54d55")
 	)
 	(wire
 		(pts
@@ -13988,16 +13796,6 @@
 	)
 	(wire
 		(pts
-			(xy 433.07 381) (xy 433.07 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4fdcc37e-a957-494a-a79f-34db92b21758")
-	)
-	(wire
-		(pts
 			(xy 243.84 57.15) (xy 243.84 58.42)
 		)
 		(stroke
@@ -14015,26 +13813,6 @@
 			(type default)
 		)
 		(uuid "50eb14ac-a109-47d1-80d2-87b010703caf")
-	)
-	(wire
-		(pts
-			(xy 364.49 381) (xy 364.49 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "512de787-9238-414e-984a-50767962f5c6")
-	)
-	(wire
-		(pts
-			(xy 449.58 401.32) (xy 449.58 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "514ac8b1-a783-41b8-bbc3-b4e78701d7d1")
 	)
 	(wire
 		(pts
@@ -14178,16 +13956,6 @@
 	)
 	(wire
 		(pts
-			(xy 417.83 381) (xy 417.83 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "542f9a90-ff17-4a4c-9e34-a06eb65b7744")
-	)
-	(wire
-		(pts
 			(xy 121.92 360.68) (xy 121.92 361.95)
 		)
 		(stroke
@@ -14215,16 +13983,6 @@
 			(type default)
 		)
 		(uuid "54e1c3f1-a217-4f3a-b77e-f8850c376701")
-	)
-	(wire
-		(pts
-			(xy 417.83 391.16) (xy 417.83 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55003483-1e9c-4e79-850c-2955214cb5c2")
 	)
 	(wire
 		(pts
@@ -14425,16 +14183,6 @@
 			(type default)
 		)
 		(uuid "590ed3db-63fd-481f-a7e7-cacd41579af3")
-	)
-	(wire
-		(pts
-			(xy 417.83 383.54) (xy 410.21 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "595167ca-4825-444d-8c40-1b490006cfed")
 	)
 	(polyline
 		(pts
@@ -15078,16 +14826,6 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 381) (xy 394.97 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64ca3631-a865-444b-8b9e-096f8d005414")
-	)
-	(wire
-		(pts
 			(xy 236.22 58.42) (xy 238.76 58.42)
 		)
 		(stroke
@@ -15448,16 +15186,6 @@
 	)
 	(wire
 		(pts
-			(xy 417.83 393.7) (xy 410.21 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b7e68ff-ac20-4a29-9cc7-6c2b8bf75b7e")
-	)
-	(wire
-		(pts
 			(xy 189.23 198.12) (xy 191.77 198.12)
 		)
 		(stroke
@@ -15648,16 +15376,6 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 393.7) (xy 379.73 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f13b76b-fc07-468c-b4c4-9ceb483269a8")
-	)
-	(wire
-		(pts
 			(xy 124.46 62.23) (xy 124.46 64.77)
 		)
 		(stroke
@@ -15828,16 +15546,6 @@
 	)
 	(wire
 		(pts
-			(xy 426.72 401.32) (xy 426.72 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72c82c9c-e9c1-4cee-8a87-6bd2ed809ef2")
-	)
-	(wire
-		(pts
 			(xy 323.85 69.85) (xy 316.23 69.85)
 		)
 		(stroke
@@ -15975,16 +15683,6 @@
 			(type default)
 		)
 		(uuid "75f4c299-ddc8-4e42-99dd-f24f2198228f")
-	)
-	(wire
-		(pts
-			(xy 387.35 383.54) (xy 394.97 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "761fed9b-730b-4ac3-b9e1-2a4f5c6f3f6b")
 	)
 	(wire
 		(pts
@@ -16388,16 +16086,6 @@
 	)
 	(wire
 		(pts
-			(xy 410.21 383.54) (xy 402.59 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e93d353-427a-4250-acf3-6ccbad8b74ab")
-	)
-	(wire
-		(pts
 			(xy 311.15 41.91) (xy 311.15 40.64)
 		)
 		(stroke
@@ -16608,16 +16296,6 @@
 	)
 	(wire
 		(pts
-			(xy 410.21 391.16) (xy 410.21 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8399b091-71ce-40ab-a5ee-c62cc9dfdf3e")
-	)
-	(wire
-		(pts
 			(xy 121.92 351.79) (xy 125.73 351.79)
 		)
 		(stroke
@@ -16665,16 +16343,6 @@
 			(type default)
 		)
 		(uuid "84c74014-c73a-41bc-a24d-ac72da8b4a80")
-	)
-	(wire
-		(pts
-			(xy 417.83 403.86) (xy 417.83 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84d69181-8fbd-4423-a22e-2ea575574588")
 	)
 	(wire
 		(pts
@@ -16748,16 +16416,6 @@
 	)
 	(wire
 		(pts
-			(xy 410.21 381) (xy 410.21 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "859224a2-8860-4089-ad3b-e38264ac5632")
-	)
-	(wire
-		(pts
 			(xy 199.39 171.45) (xy 201.93 171.45)
 		)
 		(stroke
@@ -16805,16 +16463,6 @@
 			(type default)
 		)
 		(uuid "866a3505-bf21-4aaa-af1d-1420fc96df67")
-	)
-	(wire
-		(pts
-			(xy 417.83 393.7) (xy 425.45 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8684b7a9-2711-42aa-bbd8-31d08723f79f")
 	)
 	(wire
 		(pts
@@ -17138,16 +16786,6 @@
 	)
 	(wire
 		(pts
-			(xy 440.69 381) (xy 440.69 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c71e1d1-0b18-4a2e-8266-b5e339e456fd")
-	)
-	(wire
-		(pts
 			(xy 124.46 62.23) (xy 127 62.23)
 		)
 		(stroke
@@ -17165,26 +16803,6 @@
 			(type default)
 		)
 		(uuid "8cec9fda-e0b8-4206-8bce-4571ff308cf5")
-	)
-	(wire
-		(pts
-			(xy 372.11 383.54) (xy 379.73 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8cf3a000-c613-4248-8bce-bdab48d6975f")
-	)
-	(wire
-		(pts
-			(xy 394.97 393.7) (xy 402.59 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d533985-f91c-4128-a9cb-fc930e3e7663")
 	)
 	(wire
 		(pts
@@ -17438,16 +17056,6 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 383.54) (xy 433.07 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9237e51c-2a58-40c4-8b64-c3f08ff06673")
-	)
-	(wire
-		(pts
 			(xy 215.9 332.74) (xy 215.9 334.01)
 		)
 		(stroke
@@ -17505,16 +17113,6 @@
 			(type default)
 		)
 		(uuid "92b36a8e-add1-4a02-88af-1fa850ce7348")
-	)
-	(wire
-		(pts
-			(xy 379.73 393.7) (xy 387.35 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92baa119-30b1-4071-abed-962f432060f9")
 	)
 	(wire
 		(pts
@@ -17778,16 +17376,6 @@
 	)
 	(wire
 		(pts
-			(xy 434.34 403.86) (xy 441.96 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "965ee391-1ed6-427e-ad2d-e59f0c6e1ebf")
-	)
-	(wire
-		(pts
 			(xy 229.87 274.32) (xy 229.87 271.78)
 		)
 		(stroke
@@ -17975,16 +17563,6 @@
 			(type default)
 		)
 		(uuid "9a9477f6-a159-401b-9a2c-7f4bf1a6de0a")
-	)
-	(wire
-		(pts
-			(xy 457.2 403.86) (xy 464.82 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9aa66161-697e-4f13-b9c4-9b0ce443e784")
 	)
 	(wire
 		(pts
@@ -18348,16 +17926,6 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 393.7) (xy 433.07 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a17df6ef-1794-42ef-8d96-c03089b23ad2")
-	)
-	(wire
-		(pts
 			(xy 500.38 163.83) (xy 496.57 163.83)
 		)
 		(stroke
@@ -18585,16 +18153,6 @@
 			(type default)
 		)
 		(uuid "a60aba64-36a2-4623-ad73-c19a6087106e")
-	)
-	(wire
-		(pts
-			(xy 433.07 391.16) (xy 433.07 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a650ee90-130d-490b-bc9e-f775acb2e19f")
 	)
 	(wire
 		(pts
@@ -19168,16 +18726,6 @@
 	)
 	(wire
 		(pts
-			(xy 434.34 401.32) (xy 434.34 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "afc8aa2a-7d02-46a4-aa2a-e0e1ae44da57")
-	)
-	(wire
-		(pts
 			(xy 121.92 226.06) (xy 121.92 228.6)
 		)
 		(stroke
@@ -19688,16 +19236,6 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 391.16) (xy 372.11 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba7194c4-23b0-4e9c-b300-63468768c9fe")
-	)
-	(wire
-		(pts
 			(xy 90.17 81.28) (xy 90.17 80.01)
 		)
 		(stroke
@@ -20008,16 +19546,6 @@
 	)
 	(wire
 		(pts
-			(xy 455.93 391.16) (xy 455.93 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "beb577d0-d384-4ad3-b2cf-f0a479e28296")
-	)
-	(wire
-		(pts
 			(xy 81.28 78.74) (xy 78.74 78.74)
 		)
 		(stroke
@@ -20038,16 +19566,6 @@
 	)
 	(wire
 		(pts
-			(xy 387.35 393.7) (xy 394.97 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf1ed424-589a-46ac-a287-ac6ec44ff3a4")
-	)
-	(wire
-		(pts
 			(xy 440.69 157.48) (xy 440.69 160.02)
 		)
 		(stroke
@@ -20065,16 +19583,6 @@
 			(type default)
 		)
 		(uuid "bf432531-da46-4dec-9210-959b0d1824b2")
-	)
-	(wire
-		(pts
-			(xy 457.2 401.32) (xy 457.2 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf7e16e0-e6bd-4c56-81bc-1eca58faa5f2")
 	)
 	(wire
 		(pts
@@ -20145,16 +19653,6 @@
 			(type default)
 		)
 		(uuid "c1d80cbe-67c6-4563-9578-7b8f3a5efe80")
-	)
-	(wire
-		(pts
-			(xy 387.35 381) (xy 387.35 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c208d770-a3e0-433a-ae2e-c08e8ef34259")
 	)
 	(wire
 		(pts
@@ -20858,16 +20356,6 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 381) (xy 402.59 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd061672-bb82-4469-96c6-8d94e16844af")
-	)
-	(wire
-		(pts
 			(xy 127 87.63) (xy 127 88.9)
 		)
 		(stroke
@@ -20978,16 +20466,6 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 391.16) (xy 394.97 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cebeeb1d-5888-4ca1-8bda-6b8b7ebcabfa")
-	)
-	(wire
-		(pts
 			(xy 114.3 107.95) (xy 114.3 110.49)
 		)
 		(stroke
@@ -21015,16 +20493,6 @@
 			(type default)
 		)
 		(uuid "cf5c93ce-168f-4886-83ec-f55b89a915e0")
-	)
-	(wire
-		(pts
-			(xy 433.07 383.54) (xy 440.69 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf9c55c9-8994-49ce-a654-17593ebcd7e1")
 	)
 	(wire
 		(pts
@@ -21248,16 +20716,6 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 381) (xy 379.73 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2d835dd-b517-467e-9c52-cb75e6037965")
-	)
-	(wire
-		(pts
 			(xy 215.9 336.55) (xy 213.36 336.55)
 		)
 		(stroke
@@ -21285,16 +20743,6 @@
 			(type default)
 		)
 		(uuid "d3162ae5-a2d6-4184-8db4-8325e5dffa6c")
-	)
-	(wire
-		(pts
-			(xy 379.73 383.54) (xy 387.35 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d32ba98e-5af8-4903-8bab-da9a75d02baa")
 	)
 	(wire
 		(pts
@@ -21415,16 +20863,6 @@
 			(type default)
 		)
 		(uuid "d50216ac-b9f2-4959-91b1-11e16e4b8273")
-	)
-	(wire
-		(pts
-			(xy 440.69 393.7) (xy 448.31 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d523d5a4-cba4-4ae6-994e-88b051e26c9a")
 	)
 	(wire
 		(pts
@@ -21648,16 +21086,6 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 391.16) (xy 379.73 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da69f984-344f-4609-91c7-0ac5af254fc2")
-	)
-	(wire
-		(pts
 			(xy 311.15 144.78) (xy 311.15 146.05)
 		)
 		(stroke
@@ -21685,16 +21113,6 @@
 			(type default)
 		)
 		(uuid "daf1d916-f2ae-4b5e-9e2e-eaab33a98f5c")
-	)
-	(wire
-		(pts
-			(xy 368.3 383.54) (xy 372.11 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db6a15ac-2119-4a70-b60a-41b6eccb82d4")
 	)
 	(wire
 		(pts
@@ -21805,16 +21223,6 @@
 			(type default)
 		)
 		(uuid "dd3e0b4c-b206-4191-9b86-714f983eb079")
-	)
-	(wire
-		(pts
-			(xy 434.34 403.86) (xy 426.72 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd48d918-bf6d-42d8-b789-e238bfd0cebf")
 	)
 	(wire
 		(pts
@@ -22038,16 +21446,6 @@
 	)
 	(wire
 		(pts
-			(xy 426.72 403.86) (xy 417.83 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0c06b17-199b-4ae0-a198-83e7ae2d6c33")
-	)
-	(wire
-		(pts
 			(xy 194.31 31.75) (xy 196.85 31.75)
 		)
 		(stroke
@@ -22175,16 +21573,6 @@
 			(type default)
 		)
 		(uuid "e2bbb8b5-cac1-4975-9b3a-61e453d67de8")
-	)
-	(wire
-		(pts
-			(xy 441.96 403.86) (xy 449.58 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2d0af64-eb88-4fd1-b894-f8faa4ef57f4")
 	)
 	(wire
 		(pts
@@ -22568,16 +21956,6 @@
 	)
 	(wire
 		(pts
-			(xy 417.83 383.54) (xy 425.45 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e92c8529-9949-461e-a4ce-65ec0a451ab8")
-	)
-	(wire
-		(pts
 			(xy 121.92 62.23) (xy 121.92 64.77)
 		)
 		(stroke
@@ -22948,16 +22326,6 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 383.54) (xy 368.3 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "effa098e-10a5-420d-b282-1dac435fd2fb")
-	)
-	(wire
-		(pts
 			(xy 220.98 231.14) (xy 220.98 228.6)
 		)
 		(stroke
@@ -23218,16 +22586,6 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 393.7) (xy 410.21 393.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f449d57f-5b51-419b-8795-efd7d3846c9b")
-	)
-	(wire
-		(pts
 			(xy 361.95 64.77) (xy 363.22 64.77)
 		)
 		(stroke
@@ -23388,16 +22746,6 @@
 	)
 	(wire
 		(pts
-			(xy 441.96 401.32) (xy 441.96 403.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f66312ca-d7dd-499a-8a54-2e5d70d43b07")
-	)
-	(wire
-		(pts
 			(xy 289.56 82.55) (xy 285.75 82.55)
 		)
 		(stroke
@@ -23475,16 +22823,6 @@
 			(type default)
 		)
 		(uuid "f884ef7d-ad0e-4461-97b9-9e523f579422")
-	)
-	(wire
-		(pts
-			(xy 440.69 383.54) (xy 448.31 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8a17415-714b-4685-902b-aef2ab22b991")
 	)
 	(wire
 		(pts
@@ -34640,6 +33978,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 379.73 401.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0296ee92-e3b1-425b-ae65-95ccea67d078")
+		(property "Reference" "H33"
+			(at 382.27 400.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 382.27 401.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 379.73 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 379.73 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 379.73 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aa61926e-26ee-4a8f-b597-4fd3597b1c82")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 59.69 193.04 0)
 		(unit 1)
@@ -34994,6 +34400,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 379.73 393.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "072fc90f-857a-4c9a-834a-f68a930e981d")
+		(property "Reference" "H23"
+			(at 382.27 392.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 382.27 393.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 379.73 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 379.73 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 379.73 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a6d2eb58-0558-4a97-b14a-69067a175afc")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 105.41 91.44 0)
 		(unit 1)
@@ -35185,74 +34659,6 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "TP21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 464.82 398.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "09c3c034-f217-4ebe-9df4-deef512d3e70")
-		(property "Reference" "H30"
-			(at 467.36 397.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 467.36 398.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 464.82 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 464.82 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 464.82 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7fa30bb2-7b68-4f25-b0e6-b7979af22242")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H30")
 					(unit 1)
 				)
 			)
@@ -35789,6 +35195,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 417.83 386.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e7f2e10-058d-4b5f-af6e-455f1501df3b")
+		(property "Reference" "H18"
+			(at 420.37 384.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 420.37 386.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 417.83 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 417.83 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 417.83 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5890dda0-861f-4e7f-b730-43bfe40d9340")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "2602_1102:2601-1102")
 		(at 79.375 213.36 180)
 		(unit 1)
@@ -36246,74 +35720,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 449.58 398.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "12ee7ce5-3848-4b04-b683-f252a1d73119")
-		(property "Reference" "H28"
-			(at 452.12 397.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 452.12 398.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 449.58 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 449.58 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 449.58 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6f11ee6b-659c-445a-b432-f5c9fd9b4b81")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 372.11 60.96 0)
 		(unit 1)
@@ -36381,74 +35787,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 433.07 378.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1436db16-6144-45c2-85be-2a399f4e21cc")
-		(property "Reference" "H10"
-			(at 435.61 377.1899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 435.61 378.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 433.07 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 433.07 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 433.07 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "079ad373-53c2-4230-a749-d309dbd5929d")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 526.415 337.82 90)
 		(unit 1)
@@ -36508,74 +35846,6 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "TP68")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 440.69 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "14b490d5-a80f-40bd-9a19-e0ac0631d5a2")
-		(property "Reference" "H22"
-			(at 443.23 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 443.23 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 440.69 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 440.69 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 440.69 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "db60043c-4ba2-46c6-9f24-b1d183df1d63")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H22")
 					(unit 1)
 				)
 			)
@@ -37396,6 +36666,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 433.07 378.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "188bf095-f268-4813-9ec9-1bb449788cf5")
+		(property "Reference" "H10"
+			(at 435.61 377.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 435.61 378.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 433.07 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 433.07 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 433.07 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6d436ccd-b765-43b6-9e0a-e6b54649756e")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 401.32 172.72 0)
 		(unit 1)
@@ -37704,6 +37042,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 394.97 386.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a41d95f-fb3c-4b06-9698-30678acdd742")
+		(property "Reference" "H15"
+			(at 397.51 384.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 397.51 386.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 394.97 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 394.97 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 394.97 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "901e77f9-3c22-4945-ae65-4bf7dd59626c")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "TBLH10V-350-08BK:TBLH10V-350-08BK")
 		(at 228.6 87.63 90)
 		(unit 1)
@@ -37868,6 +37274,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 410.21 386.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c586119-2ea0-4b19-8648-e02357e7158e")
+		(property "Reference" "H17"
+			(at 412.75 384.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 412.75 386.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 410.21 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 410.21 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 410.21 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1078c3b6-6098-4cf0-a2f8-6fef2e652055")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 278.13 209.55 0)
 		(unit 1)
@@ -37935,6 +37409,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 410.21 378.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c826a07-b818-44c8-b015-204e05f4dd8b")
+		(property "Reference" "H7"
+			(at 412.75 377.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 412.75 378.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 410.21 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 410.21 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 410.21 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e233fe9-31d7-4326-b5d1-cf0fdabafcc6")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 410.21 88.9 0)
 		(unit 1)
@@ -37996,74 +37538,6 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "#PWR042")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 455.93 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ed890ce-f930-48ab-9456-01bdd95cf6f5")
-		(property "Reference" "H24"
-			(at 458.47 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 458.47 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 455.93 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 455.93 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 455.93 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fef4cb03-b3dc-440a-937d-d4fa445fe415")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H24")
 					(unit 1)
 				)
 			)
@@ -38359,74 +37833,6 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "J20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 372.11 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "23ca9853-6dc7-4652-ba6f-db368797080d")
-		(property "Reference" "H13"
-			(at 374.65 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 374.65 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 372.11 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 372.11 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 372.11 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "afe6ead4-f002-4220-8859-1a108ceb54b4")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H13")
 					(unit 1)
 				)
 			)
@@ -39611,6 +39017,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "TP72")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 425.45 378.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "323f856e-27e6-4157-b9db-397be2fd6063")
+		(property "Reference" "H9"
+			(at 427.99 377.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 427.99 378.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 425.45 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 425.45 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 425.45 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "636b1128-673c-41b7-ad37-87225e5541cf")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H9")
 					(unit 1)
 				)
 			)
@@ -41344,74 +40818,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 417.83 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "47108a2c-8946-4f72-8be5-5629141cc1c1")
-		(property "Reference" "H19"
-			(at 420.37 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 420.37 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 417.83 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 417.83 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 417.83 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c975f5c7-fa13-4c6b-903e-3de988af8b99")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 363.22 152.4 0)
 		(unit 1)
@@ -41606,6 +41012,142 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "TP22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 387.35 393.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4c25e0ca-570a-410e-a554-2a8743f48d79")
+		(property "Reference" "H24"
+			(at 389.89 392.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 389.89 393.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 387.35 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 387.35 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 387.35 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e5b3dbde-7505-4ff6-b3b3-0af7afd81766")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 402.59 393.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e6c9a8d-e6ad-491a-ab49-ce8b9ede04d1")
+		(property "Reference" "H26"
+			(at 405.13 392.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 405.13 393.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 402.59 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 402.59 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 402.59 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dc984476-ec20-4eae-855b-e7103ce0ce12")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H26")
 					(unit 1)
 				)
 			)
@@ -41997,6 +41539,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 394.97 393.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5440ab07-cc14-4a43-b170-5a8ac9dcf1af")
+		(property "Reference" "H25"
+			(at 397.51 392.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 397.51 393.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 394.97 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 394.97 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 394.97 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "243cf737-1363-423a-ae48-df2c709a768e")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Polyfuse")
 		(at 312.42 186.69 90)
 		(unit 1)
@@ -42059,6 +41669,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "F14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 372.11 393.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57a10113-a5e0-4653-a75d-d3aabb6f3865")
+		(property "Reference" "H22"
+			(at 374.65 392.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 374.65 393.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 372.11 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 372.11 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 372.11 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3becb67a-68a0-431b-8fa3-4ebdc5684468")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H22")
 					(unit 1)
 				)
 			)
@@ -42523,74 +42201,6 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "TP7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 387.35 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5d73bf51-fb1c-47f0-b913-82e1331ff614")
-		(property "Reference" "H15"
-			(at 389.89 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 389.89 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 387.35 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 387.35 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 387.35 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b49b9f65-6663-4f0d-aa18-58ad85f04e50")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H15")
 					(unit 1)
 				)
 			)
@@ -43961,6 +43571,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "TP38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 410.21 393.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "649c9014-59d7-41fc-a84c-e160a140f06b")
+		(property "Reference" "H27"
+			(at 412.75 392.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 412.75 393.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 410.21 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 410.21 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 410.21 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "34dc90f1-f5f5-4124-a74c-9ec0d4271805")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H27")
 					(unit 1)
 				)
 			)
@@ -45801,6 +45479,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 433.07 386.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "759fe30a-f4a7-4018-a30c-aac533252e2b")
+		(property "Reference" "H20"
+			(at 435.61 384.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 435.61 386.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 433.07 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 433.07 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 433.07 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4804aef1-889b-4f48-aa64-e7b5bb68249e")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 363.22 74.93 0)
 		(unit 1)
@@ -46558,74 +46304,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 417.83 378.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7d513570-00f4-4a47-b1b8-e949a814a6cc")
-		(property "Reference" "H8"
-			(at 420.37 377.1899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 420.37 378.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 417.83 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 417.83 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 417.83 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "71cb9252-1e32-4255-8319-385b10c3956c")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N4004")
 		(at 372.11 167.64 270)
 		(unit 1)
@@ -46773,6 +46451,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "TP34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 387.35 401.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e589b73-4fdb-4bd3-ae98-450a488e540e")
+		(property "Reference" "H34"
+			(at 389.89 400.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 389.89 401.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 387.35 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 387.35 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 387.35 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "61d5f766-6a01-4c3c-893d-d2c11cb8c745")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H34")
 					(unit 1)
 				)
 			)
@@ -47038,6 +46784,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 417.83 393.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "81494b8e-9100-4866-9c79-1685f24ffe38")
+		(property "Reference" "H28"
+			(at 420.37 392.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 420.37 393.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 417.83 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 417.83 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 417.83 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "46c964bf-bcdc-4fff-ac07-68efa433b3b8")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H28")
 					(unit 1)
 				)
 			)
@@ -47546,6 +47360,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "TP77")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 433.07 393.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8e1d6a9b-2312-4189-a811-db2e12c44494")
+		(property "Reference" "H30"
+			(at 435.61 392.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 435.61 393.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 433.07 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 433.07 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 433.07 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e94b274c-27d0-470c-8678-c5fd58fd2a4f")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H30")
 					(unit 1)
 				)
 			)
@@ -48426,74 +48308,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 425.45 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94f480a3-448c-4fa0-8bb6-c4e06ee69a73")
-		(property "Reference" "H20"
-			(at 427.99 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 427.99 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 425.45 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 425.45 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 425.45 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e840efb2-1724-49ae-9aaa-fb4f4e5eed92")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 526.415 262.89 90)
 		(unit 1)
@@ -48758,6 +48572,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 364.49 393.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9b78601a-b437-4759-a302-64fc5fc56ca2")
+		(property "Reference" "H21"
+			(at 367.03 392.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 367.03 393.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 364.49 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 364.49 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 364.49 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "60aa896c-d624-4812-bbc4-2c88e875175a")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H21")
 					(unit 1)
 				)
 			)
@@ -49566,6 +49448,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 425.45 393.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a24d6917-9373-4ee1-a605-0805c61ff3e5")
+		(property "Reference" "H29"
+			(at 427.99 392.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 427.99 393.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 425.45 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 425.45 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 425.45 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1c59c8e9-6fbd-45c3-bcc7-e9e4af642b63")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 97.155 177.8 0)
 		(mirror y)
@@ -49863,6 +49813,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 425.45 386.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a6ce9875-d11a-4bbc-979b-6711c8591f1d")
+		(property "Reference" "H19"
+			(at 427.99 384.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 427.99 386.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 425.45 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 425.45 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 425.45 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9dcd6264-ec41-4d39-ac4b-2d42d66ba705")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 78.74 41.91 90)
 		(unit 1)
@@ -49925,74 +49943,6 @@
 			(project ""
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 410.21 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a8219e69-8f94-455e-9ebc-c80cd6652135")
-		(property "Reference" "H18"
-			(at 412.75 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 412.75 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 410.21 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 410.21 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 410.21 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aa44c46c-f943-47ed-a050-02ddb34fd263")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H18")
 					(unit 1)
 				)
 			)
@@ -50066,17 +50016,36 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 364.49 386.08 0)
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 387.35 386.08 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a8bffd1f-76d5-49c8-87ca-3e8333e19f65")
-		(property "Reference" "#PWR063"
-			(at 364.49 392.43 0)
+		(uuid "a898da4f-f823-4a35-a557-03153060dab5")
+		(property "Reference" "H14"
+			(at 389.89 384.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 389.89 386.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 387.35 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50084,8 +50053,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 364.49 391.16 0)
+		(property "Datasheet" "~"
+			(at 387.35 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50093,26 +50062,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 364.49 386.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 364.49 386.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 364.49 386.08 0)
+		(property "Description" "Mounting Hole with connection"
+			(at 387.35 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50121,12 +50072,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "5488871d-5864-4f25-be5c-f5e731dade04")
+			(uuid "e17b0ee6-2a07-4d16-9f6c-b0da34e5ec57")
 		)
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "#PWR063")
+					(reference "H14")
 					(unit 1)
 				)
 			)
@@ -50195,6 +50146,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 364.49 386.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aac4c4ad-283b-44b6-83b4-b1363a00d5fd")
+		(property "Reference" "H11"
+			(at 367.03 384.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 367.03 386.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 364.49 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 364.49 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 364.49 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "064d3589-ca80-4b0c-9104-3f50b9fad389")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H11")
 					(unit 1)
 				)
 			)
@@ -50378,16 +50397,16 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 425.45 378.46 0)
+		(at 372.11 401.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ac33501b-4730-48c8-94fa-ed85638cd8bd")
-		(property "Reference" "H9"
-			(at 427.99 377.1899 0)
+		(uuid "ac5cf227-c802-4942-b6c5-df3d1c88e8d3")
+		(property "Reference" "H32"
+			(at 374.65 400.0499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50396,7 +50415,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 427.99 378.4599 0)
+			(at 374.65 401.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50406,7 +50425,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 425.45 378.46 0)
+			(at 372.11 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50415,7 +50434,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 425.45 378.46 0)
+			(at 372.11 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50424,7 +50443,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 425.45 378.46 0)
+			(at 372.11 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50433,12 +50452,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "15499537-719b-40cc-87d9-97a102dd1097")
+			(uuid "22261749-471f-4354-88cd-4f161ba28839")
 		)
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H9")
+					(reference "H32")
 					(unit 1)
 				)
 			)
@@ -50603,74 +50622,6 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "J44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 394.97 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "af99797f-cd38-4372-969e-81cc917fd37b")
-		(property "Reference" "H16"
-			(at 397.51 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 397.51 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 394.97 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 394.97 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 394.97 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "56d92df6-f56e-4790-80a9-84676eb3761b")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H16")
 					(unit 1)
 				)
 			)
@@ -51118,74 +51069,6 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 440.69 378.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b3bc5c31-0302-4795-97ff-7d9a3a647857")
-		(property "Reference" "H11"
-			(at 443.23 377.1899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 443.23 378.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 440.69 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 440.69 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 440.69 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "254da3c9-0808-4966-be4d-8a971a840438")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
 		(at 387.35 378.46 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -51584,6 +51467,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 402.59 386.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9179d8e-7ffa-491a-b050-293f6abdc613")
+		(property "Reference" "H16"
+			(at 405.13 384.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 405.13 386.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 402.59 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 402.59 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 402.59 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "23cb0dbd-d3db-4bca-a156-4a39dd4e0a27")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "TBLH10V-350-08BK:TBLH10V-350-08BK")
 		(at 228.6 57.15 90)
 		(unit 1)
@@ -51880,74 +51831,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 379.73 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bcc55940-e336-401b-8b3c-e5392ff9d81b")
-		(property "Reference" "H14"
-			(at 382.27 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 382.27 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 379.73 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 379.73 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 379.73 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1dc77eb7-8962-4e30-82fb-53091992ee3b")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 224.79 341.63 0)
 		(mirror y)
@@ -52010,6 +51893,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 417.83 378.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd88564a-7577-4359-8782-1f1a545c7a25")
+		(property "Reference" "H8"
+			(at 420.37 377.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 420.37 378.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 417.83 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 417.83 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 417.83 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "981b0505-537e-46ce-b546-1fd710ef6dce")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H8")
 					(unit 1)
 				)
 			)
@@ -52346,74 +52297,6 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 448.31 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bf7db43a-b672-455f-8b99-bacef61245ff")
-		(property "Reference" "H23"
-			(at 450.85 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 450.85 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 448.31 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 448.31 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 448.31 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "68841758-d40e-495d-8fa3-bc7e80697f9d")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H23")
 					(unit 1)
 				)
 			)
@@ -53455,16 +53338,16 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 410.21 378.46 0)
+		(at 379.73 386.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "c915a601-5b4f-482d-9db1-3fe09a31cfce")
-		(property "Reference" "H7"
-			(at 412.75 377.1899 0)
+		(uuid "c86547d1-d5d5-430e-a78e-6d7480cb650f")
+		(property "Reference" "H13"
+			(at 382.27 384.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53473,7 +53356,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 412.75 378.4599 0)
+			(at 382.27 386.0799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53483,7 +53366,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 410.21 378.46 0)
+			(at 379.73 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53492,7 +53375,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 410.21 378.46 0)
+			(at 379.73 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53501,7 +53384,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 410.21 378.46 0)
+			(at 379.73 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53510,12 +53393,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "2a155aa5-5a03-48f6-b798-a0a245143268")
+			(uuid "a8ae3c4f-4912-4e4d-b21d-9ba27135665c")
 		)
 		(instances
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H7")
+					(reference "H13")
 					(unit 1)
 				)
 			)
@@ -53587,142 +53470,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 434.34 398.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ca20e340-bf4c-4ece-8d1b-bffcb4840a8c")
-		(property "Reference" "H26"
-			(at 436.88 397.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 436.88 398.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 434.34 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 434.34 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 434.34 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "97c19327-da7b-4227-9045-3982c4a26ee9")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 402.59 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cadf522e-b28c-464a-aa38-2995f4bc7a05")
-		(property "Reference" "H17"
-			(at 405.13 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 405.13 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 402.59 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 402.59 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 402.59 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "767b64ce-c8bd-4d36-b0a0-ddab08207d85")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 30.48 267.97 0)
 		(mirror y)
@@ -53785,6 +53532,74 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 364.49 401.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cbd2fc2a-b95c-429c-b796-bf0772f80e99")
+		(property "Reference" "H31"
+			(at 367.03 400.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 367.03 401.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 364.49 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 364.49 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 364.49 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f3a397e5-bfd5-4f16-8d88-78c5061a3eaa")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H31")
 					(unit 1)
 				)
 			)
@@ -54511,74 +54326,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 441.96 398.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d6bc0b63-6df4-4a1c-a735-71435fbc009e")
-		(property "Reference" "H27"
-			(at 444.5 397.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 444.5 398.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 441.96 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 441.96 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 441.96 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "51d2c149-dc80-4e74-ba32-9932fe163e1f")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 526.415 308.61 90)
 		(unit 1)
@@ -54703,74 +54450,6 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "TP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 433.07 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "daff221c-bbf3-45cf-8509-0c4f92e22768")
-		(property "Reference" "H21"
-			(at 435.61 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 435.61 388.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 433.07 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 433.07 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 433.07 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d4c15921-a883-41ac-87e5-eb1192ab2f6a")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H21")
 					(unit 1)
 				)
 			)
@@ -56143,74 +55822,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 448.31 378.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eaf956dc-70b2-4401-948f-c542306e1738")
-		(property "Reference" "H12"
-			(at 450.85 377.1899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 450.85 378.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 448.31 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 448.31 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 448.31 378.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bb482b81-10e1-4cfc-8e11-7790878829ba")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 556.895 288.29 90)
 		(unit 1)
@@ -56493,74 +56104,6 @@
 			(project "2025-2026 NI Breakout Board"
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "D14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 457.2 398.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ed4b69ee-5f25-402b-acdc-f26eba79e75c")
-		(property "Reference" "H29"
-			(at 459.74 397.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 459.74 398.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 457.2 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 457.2 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 457.2 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f32f954c-bf56-4de0-9de4-8840d37707ca")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H29")
 					(unit 1)
 				)
 			)
@@ -57594,74 +57137,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 426.72 398.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f57ac45d-c51b-4b48-842a-e78b4bc33657")
-		(property "Reference" "H25"
-			(at 429.26 397.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 429.26 398.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 426.72 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 426.72 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 426.72 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "55c4d899-e54d-43ed-9c52-c152c2352c15")
-		)
-		(instances
-			(project "2025-2026 NI Breakout Board"
-				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
-					(reference "H25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 556.895 352.425 90)
 		(unit 1)
@@ -58500,6 +57975,74 @@
 			(project ""
 				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
 					(reference "J29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 372.11 386.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ffb7a152-2b74-4094-9a9b-1d2b9627aed5")
+		(property "Reference" "H12"
+			(at 374.65 384.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 374.65 386.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
+			(at 372.11 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 372.11 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 372.11 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a34fca3c-384e-49ce-95d1-468f5ddd57fc")
+		)
+		(instances
+			(project "2025-2026 NI Breakout Board"
+				(path "/aba3267a-281c-4529-a78c-2478d28f82ec"
+					(reference "H12")
 					(unit 1)
 				)
 			)
