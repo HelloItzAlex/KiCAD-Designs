@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LabJack DB37 PCB.kicad_pro",
+    "filename": "Sit.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -466,7 +466,25 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2147483647,
+        "priority": -1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "All Nets",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": -1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.6,
@@ -610,7 +628,7 @@
   },
   "sheets": [
     [
-      "704067de-520d-4444-be45-b08d50d6f95a",
+      "4091ac5c-adb8-402a-a811-f7e244cbdf25",
       "Root"
     ]
   ],
